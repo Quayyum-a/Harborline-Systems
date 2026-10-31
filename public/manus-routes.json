@@ -1,0 +1,9 @@
+{
+  "routes": [
+    { "path": "/", "title": "Harborline Systems | Working software, built for the work" },
+    { "path": "/agencies", "title": "Agency engineering capacity | Harborline Systems" },
+    { "path": "/businesses", "title": "Business software and automation | Harborline Systems" },
+    { "path": "/services", "title": "Software and AI engineering services | Harborline Systems" },
+    { "path": "/how-it-works", "title": "How projects work with Harborline | Harborline Systems" }
+  ]
+}

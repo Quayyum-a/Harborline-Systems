@@ -1,0 +1,1087 @@
+{
+  "results": [
+    {
+      "device": "large-desktop",
+      "route": "/",
+      "screenshot": "large-desktop-home.jpg",
+      "title": "Harborline Systems | Working software, built for the work",
+      "description": "White label engineering for agencies. Practical software, AI and automation for businesses, backed by 7 years and counting.",
+      "canonical": "https://harborlinesystems.ltd/",
+      "h1Count": 1,
+      "h1": "We turn complex technology problems into working solutions.",
+      "viewportWidth": 1440,
+      "documentWidth": 1440,
+      "horizontalOverflow": 0,
+      "images": [
+        {
+          "source": "/images/designer-at-work.webp",
+          "alt": "A person working at a laptop on a design interface. Illustrative stock photography.",
+          "loaded": true,
+          "naturalWidth": 1800,
+          "renderedWidth": 531,
+          "renderedHeight": 354,
+          "loading": "eager"
+        }
+      ],
+      "emailLinks": [
+        "mailto:hello@harborlinesystems.ltd?subject=White%20label%20engineering%20partnership%20%7C%20Harborline%20Systems&body=Hello%20Harborline%20Systems%2C%0A%0AI%20am%20interested%20in%20exploring%20your%20white%20label%20engineering%20service.%0A%0AAgency%20name%3A%0AWebsite%3A%0AType%20of%20projects%3A%0ACurrent%20engineering%20requirement%3A%0APreferred%20plan%3A%0A%0AI%20would%20like%20to%20discuss%20the%20paid%20pilot%20and%20next%20steps.",
+        "mailto:hello@harborlinesystems.ltd?subject=White%20label%20engineering%20partnership%20%7C%20Harborline%20Systems&body=Hello%20Harborline%20Systems%2C%0A%0AI%20am%20interested%20in%20exploring%20your%20white%20label%20engineering%20service.%0A%0AAgency%20name%3A%0AWebsite%3A%0AType%20of%20projects%3A%0ACurrent%20engineering%20requirement%3A%0APreferred%20plan%3A%0A%0AI%20would%20like%20to%20discuss%20the%20paid%20pilot%20and%20next%20steps.",
+        "mailto:hello@harborlinesystems.ltd?subject=Software%20and%20AI%20project%20enquiry%20%7C%20Harborline%20Systems&body=Hello%20Harborline%20Systems%2C%0A%0AI%20am%20looking%20for%20help%20solving%20a%20business%20or%20technology%20problem.%0A%0ACompany%3A%0AWebsite%3A%0AWhat%20we%20are%20trying%20to%20achieve%3A%0AThe%20problem%20we%20are%20experiencing%3A%0APreferred%20timeline%3A%0A%0AI%20would%20like%20to%20discuss%20the%20best%20approach.",
+        "mailto:hello@harborlinesystems.ltd",
+        "mailto:hello@harborlinesystems.ltd?subject=White%20label%20engineering%20partnership%20%7C%20Harborline%20Systems&body=Hello%20Harborline%20Systems%2C%0A%0AI%20am%20interested%20in%20exploring%20your%20white%20label%20engineering%20service.%0A%0AAgency%20name%3A%0AWebsite%3A%0AType%20of%20projects%3A%0ACurrent%20engineering%20requirement%3A%0APreferred%20plan%3A%0A%0AI%20would%20like%20to%20discuss%20the%20paid%20pilot%20and%20next%20steps.",
+        "mailto:hello@harborlinesystems.ltd?subject=Software%20and%20AI%20project%20enquiry%20%7C%20Harborline%20Systems&body=Hello%20Harborline%20Systems%2C%0A%0AI%20am%20looking%20for%20help%20solving%20a%20business%20or%20technology%20problem.%0A%0ACompany%3A%0AWebsite%3A%0AWhat%20we%20are%20trying%20to%20achieve%3A%0AThe%20problem%20we%20are%20experiencing%3A%0APreferred%20timeline%3A%0A%0AI%20would%20like%20to%20discuss%20the%20best%20approach.",
+        "mailto:hello@harborlinesystems.ltd"
+      ],
+      "localLinks": [
+        "/",
+        "/agencies",
+        "/businesses",
+        "/services",
+        "/how-it-works"
+      ],
+      "visibleMenuButton": false
+    },
+    {
+      "device": "large-desktop",
+      "route": "/agencies",
+      "screenshot": "large-desktop-agencies.jpg",
+      "title": "Agency engineering capacity | Harborline Systems",
+      "description": "Confidential white label engineering for agencies. Start with a $750 paid pilot, or choose a Half seat or Full seat for ongoing delivery capacity.",
+      "canonical": "https://harborlinesystems.ltd/agencies",
+      "h1Count": 1,
+      "h1": "Your agency can take on more work. Without hiring another developer.",
+      "viewportWidth": 1440,
+      "documentWidth": 1440,
+      "horizontalOverflow": 0,
+      "images": [],
+      "emailLinks": [
+        "mailto:hello@harborlinesystems.ltd?subject=White%20label%20engineering%20partnership%20%7C%20Harborline%20Systems&body=Hello%20Harborline%20Systems%2C%0A%0AI%20am%20interested%20in%20exploring%20your%20white%20label%20engineering%20service.%0A%0AAgency%20name%3A%0AWebsite%3A%0AType%20of%20projects%3A%0ACurrent%20engineering%20requirement%3A%0APreferred%20plan%3A%0A%0AI%20would%20like%20to%20discuss%20the%20paid%20pilot%20and%20next%20steps.",
+        "mailto:hello@harborlinesystems.ltd?subject=White%20label%20engineering%20partnership%20%7C%20Harborline%20Systems&body=Hello%20Harborline%20Systems%2C%0A%0AI%20am%20interested%20in%20exploring%20your%20white%20label%20engineering%20service.%0A%0AAgency%20name%3A%0AWebsite%3A%0AType%20of%20projects%3A%0ACurrent%20engineering%20requirement%3A%0APreferred%20plan%3A%0A%0AI%20would%20like%20to%20discuss%20the%20paid%20pilot%20and%20next%20steps.",
+        "mailto:hello@harborlinesystems.ltd?subject=White%20label%20engineering%20partnership%20%7C%20Harborline%20Systems&body=Hello%20Harborline%20Systems%2C%0A%0AI%20am%20interested%20in%20exploring%20your%20white%20label%20engineering%20service.%0A%0AAgency%20name%3A%0AWebsite%3A%0AType%20of%20projects%3A%0ACurrent%20engineering%20requirement%3A%0APreferred%20plan%3A%0A%0AI%20would%20like%20to%20discuss%20the%20paid%20pilot%20and%20next%20steps.",
+        "mailto:hello@harborlinesystems.ltd?subject=White%20label%20engineering%20partnership%20%7C%20Harborline%20Systems&body=Hello%20Harborline%20Systems%2C%0A%0AI%20am%20interested%20in%20exploring%20your%20white%20label%20engineering%20service.%0A%0AAgency%20name%3A%0AWebsite%3A%0AType%20of%20projects%3A%0ACurrent%20engineering%20requirement%3A%0APreferred%20plan%3A%0A%0AI%20would%20like%20to%20discuss%20the%20paid%20pilot%20and%20next%20steps.",
+        "mailto:hello@harborlinesystems.ltd?subject=White%20label%20engineering%20partnership%20%7C%20Harborline%20Systems&body=Hello%20Harborline%20Systems%2C%0A%0AI%20am%20interested%20in%20exploring%20your%20white%20label%20engineering%20service.%0A%0AAgency%20name%3A%0AWebsite%3A%0AType%20of%20projects%3A%0ACurrent%20engineering%20requirement%3A%0APreferred%20plan%3A%0A%0AI%20would%20like%20to%20discuss%20the%20paid%20pilot%20and%20next%20steps.",
+        "mailto:hello@harborlinesystems.ltd?subject=White%20label%20engineering%20partnership%20%7C%20Harborline%20Systems&body=Hello%20Harborline%20Systems%2C%0A%0AI%20am%20interested%20in%20exploring%20your%20white%20label%20engineering%20service.%0A%0AAgency%20name%3A%0AWebsite%3A%0AType%20of%20projects%3A%0ACurrent%20engineering%20requirement%3A%0APreferred%20plan%3A%0A%0AI%20would%20like%20to%20discuss%20the%20paid%20pilot%20and%20next%20steps.",
+        "mailto:hello@harborlinesystems.ltd"
+      ],
+      "localLinks": [
+        "/",
+        "/agencies",
+        "/businesses",
+        "/services",
+        "/how-it-works"
+      ],
+      "visibleMenuButton": false
+    },
+    {
+      "device": "large-desktop",
+      "route": "/businesses",
+      "screenshot": "large-desktop-businesses.jpg",
+      "title": "Business software and automation | Harborline Systems",
+      "description": "Describe the operational problem. Harborline builds practical software, AI and automation. Start with an audit, a robot build or a written custom quote.",
+      "canonical": "https://harborlinesystems.ltd/businesses",
+      "h1Count": 1,
+      "h1": "Tell us what is slowing your business down. We will map the useful next step.",
+      "viewportWidth": 1440,
+      "documentWidth": 1440,
+      "horizontalOverflow": 0,
+      "images": [
+        {
+          "source": "/images/warehouse-conversation.webp",
+          "alt": "Two women in a warehouse aisle talking as they review work. Stock photography, not a Harborline client engagement.",
+          "loaded": true,
+          "naturalWidth": 1800,
+          "renderedWidth": 564,
+          "renderedHeight": 376,
+          "loading": "eager"
+        },
+        {
+          "source": "/images/warehouse-worker.webp",
+          "alt": "A warehouse worker moving goods with a pallet jack beneath high shelves. Illustrative stock photography, not a Harborline client engagement.",
+          "loaded": true,
+          "naturalWidth": 1800,
+          "renderedWidth": 465,
+          "renderedHeight": 310,
+          "loading": "eager"
+        }
+      ],
+      "emailLinks": [
+        "mailto:hello@harborlinesystems.ltd?subject=White%20label%20engineering%20partnership%20%7C%20Harborline%20Systems&body=Hello%20Harborline%20Systems%2C%0A%0AI%20am%20interested%20in%20exploring%20your%20white%20label%20engineering%20service.%0A%0AAgency%20name%3A%0AWebsite%3A%0AType%20of%20projects%3A%0ACurrent%20engineering%20requirement%3A%0APreferred%20plan%3A%0A%0AI%20would%20like%20to%20discuss%20the%20paid%20pilot%20and%20next%20steps.",
+        "mailto:hello@harborlinesystems.ltd?subject=Software%20and%20AI%20project%20enquiry%20%7C%20Harborline%20Systems&body=Hello%20Harborline%20Systems%2C%0A%0AI%20am%20looking%20for%20help%20solving%20a%20business%20or%20technology%20problem.%0A%0ACompany%3A%0AWebsite%3A%0AWhat%20we%20are%20trying%20to%20achieve%3A%0AThe%20problem%20we%20are%20experiencing%3A%0APreferred%20timeline%3A%0A%0AI%20would%20like%20to%20discuss%20the%20best%20approach.",
+        "mailto:hello@harborlinesystems.ltd?subject=Software%20and%20AI%20project%20enquiry%20%7C%20Harborline%20Systems&body=Hello%20Harborline%20Systems%2C%0A%0AI%20am%20looking%20for%20help%20solving%20a%20business%20or%20technology%20problem.%0A%0ACompany%3A%0AWebsite%3A%0AWhat%20we%20are%20trying%20to%20achieve%3A%0AThe%20problem%20we%20are%20experiencing%3A%0APreferred%20timeline%3A%0A%0AI%20would%20like%20to%20discuss%20the%20best%20approach.",
+        "mailto:hello@harborlinesystems.ltd?subject=Software%20and%20AI%20project%20enquiry%20%7C%20Harborline%20Systems&body=Hello%20Harborline%20Systems%2C%0A%0AI%20am%20looking%20for%20help%20solving%20a%20business%20or%20technology%20problem.%0A%0ACompany%3A%0AWebsite%3A%0AWhat%20we%20are%20trying%20to%20achieve%3A%0AThe%20problem%20we%20are%20experiencing%3A%0APreferred%20timeline%3A%0A%0AI%20would%20like%20to%20discuss%20the%20best%20approach.",
+        "mailto:hello@harborlinesystems.ltd?subject=Software%20and%20AI%20project%20enquiry%20%7C%20Harborline%20Systems&body=Hello%20Harborline%20Systems%2C%0A%0AI%20am%20looking%20for%20help%20solving%20a%20business%20or%20technology%20problem.%0A%0ACompany%3A%0AWebsite%3A%0AWhat%20we%20are%20trying%20to%20achieve%3A%0AThe%20problem%20we%20are%20experiencing%3A%0APreferred%20timeline%3A%0A%0AI%20would%20like%20to%20discuss%20the%20best%20approach.",
+        "mailto:hello@harborlinesystems.ltd?subject=Software%20and%20AI%20project%20enquiry%20%7C%20Harborline%20Systems&body=Hello%20Harborline%20Systems%2C%0A%0AI%20am%20looking%20for%20help%20solving%20a%20business%20or%20technology%20problem.%0A%0ACompany%3A%0AWebsite%3A%0AWhat%20we%20are%20trying%20to%20achieve%3A%0AThe%20problem%20we%20are%20experiencing%3A%0APreferred%20timeline%3A%0A%0AI%20would%20like%20to%20discuss%20the%20best%20approach.",
+        "mailto:hello@harborlinesystems.ltd?subject=Software%20and%20AI%20project%20enquiry%20%7C%20Harborline%20Systems&body=Hello%20Harborline%20Systems%2C%0A%0AI%20am%20looking%20for%20help%20solving%20a%20business%20or%20technology%20problem.%0A%0ACompany%3A%0AWebsite%3A%0AWhat%20we%20are%20trying%20to%20achieve%3A%0AThe%20problem%20we%20are%20experiencing%3A%0APreferred%20timeline%3A%0A%0AI%20would%20like%20to%20discuss%20the%20best%20approach.",
+        "mailto:hello@harborlinesystems.ltd"
+      ],
+      "localLinks": [
+        "/",
+        "/agencies",
+        "/businesses",
+        "/services",
+        "/how-it-works"
+      ],
+      "visibleMenuButton": false
+    },
+    {
+      "device": "large-desktop",
+      "route": "/services",
+      "screenshot": "large-desktop-services.jpg",
+      "title": "Software and AI engineering services | Harborline Systems",
+      "description": "Explore Harborline Systems capabilities in software, AI, automation, integrations, applications, backend infrastructure and engineering support.",
+      "canonical": "https://harborlinesystems.ltd/services",
+      "h1Count": 1,
+      "h1": "Engineering shaped around the outcome.",
+      "viewportWidth": 1440,
+      "documentWidth": 1440,
+      "horizontalOverflow": 0,
+      "images": [],
+      "emailLinks": [
+        "mailto:hello@harborlinesystems.ltd?subject=White%20label%20engineering%20partnership%20%7C%20Harborline%20Systems&body=Hello%20Harborline%20Systems%2C%0A%0AI%20am%20interested%20in%20exploring%20your%20white%20label%20engineering%20service.%0A%0AAgency%20name%3A%0AWebsite%3A%0AType%20of%20projects%3A%0ACurrent%20engineering%20requirement%3A%0APreferred%20plan%3A%0A%0AI%20would%20like%20to%20discuss%20the%20paid%20pilot%20and%20next%20steps.",
+        "mailto:hello@harborlinesystems.ltd?subject=Software%20and%20AI%20project%20enquiry%20%7C%20Harborline%20Systems&body=Hello%20Harborline%20Systems%2C%0A%0AI%20am%20looking%20for%20help%20solving%20a%20business%20or%20technology%20problem.%0A%0ACompany%3A%0AWebsite%3A%0AWhat%20we%20are%20trying%20to%20achieve%3A%0AThe%20problem%20we%20are%20experiencing%3A%0APreferred%20timeline%3A%0A%0AI%20would%20like%20to%20discuss%20the%20best%20approach.",
+        "mailto:hello@harborlinesystems.ltd"
+      ],
+      "localLinks": [
+        "/",
+        "/agencies",
+        "/businesses",
+        "/services",
+        "/how-it-works"
+      ],
+      "visibleMenuButton": false
+    },
+    {
+      "device": "large-desktop",
+      "route": "/how-it-works",
+      "screenshot": "large-desktop-how-it-works.jpg",
+      "title": "How projects work with Harborline | Harborline Systems",
+      "description": "A clear path from problem to written scope, engineering and handover. See how to start an agency partnership or a direct business project.",
+      "canonical": "https://harborlinesystems.ltd/how-it-works",
+      "h1Count": 1,
+      "h1": "Clear from the first conversation.",
+      "viewportWidth": 1440,
+      "documentWidth": 1440,
+      "horizontalOverflow": 0,
+      "images": [],
+      "emailLinks": [
+        "mailto:hello@harborlinesystems.ltd?subject=White%20label%20engineering%20partnership%20%7C%20Harborline%20Systems&body=Hello%20Harborline%20Systems%2C%0A%0AI%20am%20interested%20in%20exploring%20your%20white%20label%20engineering%20service.%0A%0AAgency%20name%3A%0AWebsite%3A%0AType%20of%20projects%3A%0ACurrent%20engineering%20requirement%3A%0APreferred%20plan%3A%0A%0AI%20would%20like%20to%20discuss%20the%20paid%20pilot%20and%20next%20steps.",
+        "mailto:hello@harborlinesystems.ltd?subject=White%20label%20engineering%20partnership%20%7C%20Harborline%20Systems&body=Hello%20Harborline%20Systems%2C%0A%0AI%20am%20interested%20in%20exploring%20your%20white%20label%20engineering%20service.%0A%0AAgency%20name%3A%0AWebsite%3A%0AType%20of%20projects%3A%0ACurrent%20engineering%20requirement%3A%0APreferred%20plan%3A%0A%0AI%20would%20like%20to%20discuss%20the%20paid%20pilot%20and%20next%20steps.",
+        "mailto:hello@harborlinesystems.ltd?subject=Software%20and%20AI%20project%20enquiry%20%7C%20Harborline%20Systems&body=Hello%20Harborline%20Systems%2C%0A%0AI%20am%20looking%20for%20help%20solving%20a%20business%20or%20technology%20problem.%0A%0ACompany%3A%0AWebsite%3A%0AWhat%20we%20are%20trying%20to%20achieve%3A%0AThe%20problem%20we%20are%20experiencing%3A%0APreferred%20timeline%3A%0A%0AI%20would%20like%20to%20discuss%20the%20best%20approach.",
+        "mailto:hello@harborlinesystems.ltd?subject=White%20label%20engineering%20partnership%20%7C%20Harborline%20Systems&body=Hello%20Harborline%20Systems%2C%0A%0AI%20am%20interested%20in%20exploring%20your%20white%20label%20engineering%20service.%0A%0AAgency%20name%3A%0AWebsite%3A%0AType%20of%20projects%3A%0ACurrent%20engineering%20requirement%3A%0APreferred%20plan%3A%0A%0AI%20would%20like%20to%20discuss%20the%20paid%20pilot%20and%20next%20steps.",
+        "mailto:hello@harborlinesystems.ltd?subject=Software%20and%20AI%20project%20enquiry%20%7C%20Harborline%20Systems&body=Hello%20Harborline%20Systems%2C%0A%0AI%20am%20looking%20for%20help%20solving%20a%20business%20or%20technology%20problem.%0A%0ACompany%3A%0AWebsite%3A%0AWhat%20we%20are%20trying%20to%20achieve%3A%0AThe%20problem%20we%20are%20experiencing%3A%0APreferred%20timeline%3A%0A%0AI%20would%20like%20to%20discuss%20the%20best%20approach.",
+        "mailto:hello@harborlinesystems.ltd"
+      ],
+      "localLinks": [
+        "/",
+        "/agencies",
+        "/businesses",
+        "/services",
+        "/how-it-works"
+      ],
+      "visibleMenuButton": false
+    },
+    {
+      "device": "standard-desktop",
+      "route": "/",
+      "screenshot": null,
+      "title": "Harborline Systems | Working software, built for the work",
+      "description": "White label engineering for agencies. Practical software, AI and automation for businesses, backed by 7 years and counting.",
+      "canonical": "https://harborlinesystems.ltd/",
+      "h1Count": 1,
+      "h1": "We turn complex technology problems into working solutions.",
+      "viewportWidth": 1280,
+      "documentWidth": 1280,
+      "horizontalOverflow": 0,
+      "images": [
+        {
+          "source": "/images/designer-at-work.webp",
+          "alt": "A person working at a laptop on a design interface. Illustrative stock photography.",
+          "loaded": true,
+          "naturalWidth": 1800,
+          "renderedWidth": 529,
+          "renderedHeight": 353,
+          "loading": "eager"
+        }
+      ],
+      "emailLinks": [
+        "mailto:hello@harborlinesystems.ltd?subject=White%20label%20engineering%20partnership%20%7C%20Harborline%20Systems&body=Hello%20Harborline%20Systems%2C%0A%0AI%20am%20interested%20in%20exploring%20your%20white%20label%20engineering%20service.%0A%0AAgency%20name%3A%0AWebsite%3A%0AType%20of%20projects%3A%0ACurrent%20engineering%20requirement%3A%0APreferred%20plan%3A%0A%0AI%20would%20like%20to%20discuss%20the%20paid%20pilot%20and%20next%20steps.",
+        "mailto:hello@harborlinesystems.ltd?subject=White%20label%20engineering%20partnership%20%7C%20Harborline%20Systems&body=Hello%20Harborline%20Systems%2C%0A%0AI%20am%20interested%20in%20exploring%20your%20white%20label%20engineering%20service.%0A%0AAgency%20name%3A%0AWebsite%3A%0AType%20of%20projects%3A%0ACurrent%20engineering%20requirement%3A%0APreferred%20plan%3A%0A%0AI%20would%20like%20to%20discuss%20the%20paid%20pilot%20and%20next%20steps.",
+        "mailto:hello@harborlinesystems.ltd?subject=Software%20and%20AI%20project%20enquiry%20%7C%20Harborline%20Systems&body=Hello%20Harborline%20Systems%2C%0A%0AI%20am%20looking%20for%20help%20solving%20a%20business%20or%20technology%20problem.%0A%0ACompany%3A%0AWebsite%3A%0AWhat%20we%20are%20trying%20to%20achieve%3A%0AThe%20problem%20we%20are%20experiencing%3A%0APreferred%20timeline%3A%0A%0AI%20would%20like%20to%20discuss%20the%20best%20approach.",
+        "mailto:hello@harborlinesystems.ltd",
+        "mailto:hello@harborlinesystems.ltd?subject=White%20label%20engineering%20partnership%20%7C%20Harborline%20Systems&body=Hello%20Harborline%20Systems%2C%0A%0AI%20am%20interested%20in%20exploring%20your%20white%20label%20engineering%20service.%0A%0AAgency%20name%3A%0AWebsite%3A%0AType%20of%20projects%3A%0ACurrent%20engineering%20requirement%3A%0APreferred%20plan%3A%0A%0AI%20would%20like%20to%20discuss%20the%20paid%20pilot%20and%20next%20steps.",
+        "mailto:hello@harborlinesystems.ltd?subject=Software%20and%20AI%20project%20enquiry%20%7C%20Harborline%20Systems&body=Hello%20Harborline%20Systems%2C%0A%0AI%20am%20looking%20for%20help%20solving%20a%20business%20or%20technology%20problem.%0A%0ACompany%3A%0AWebsite%3A%0AWhat%20we%20are%20trying%20to%20achieve%3A%0AThe%20problem%20we%20are%20experiencing%3A%0APreferred%20timeline%3A%0A%0AI%20would%20like%20to%20discuss%20the%20best%20approach.",
+        "mailto:hello@harborlinesystems.ltd"
+      ],
+      "localLinks": [
+        "/",
+        "/agencies",
+        "/businesses",
+        "/services",
+        "/how-it-works"
+      ],
+      "visibleMenuButton": false
+    },
+    {
+      "device": "standard-desktop",
+      "route": "/agencies",
+      "screenshot": null,
+      "title": "Agency engineering capacity | Harborline Systems",
+      "description": "Confidential white label engineering for agencies. Start with a $750 paid pilot, or choose a Half seat or Full seat for ongoing delivery capacity.",
+      "canonical": "https://harborlinesystems.ltd/agencies",
+      "h1Count": 1,
+      "h1": "Your agency can take on more work. Without hiring another developer.",
+      "viewportWidth": 1280,
+      "documentWidth": 1280,
+      "horizontalOverflow": 0,
+      "images": [],
+      "emailLinks": [
+        "mailto:hello@harborlinesystems.ltd?subject=White%20label%20engineering%20partnership%20%7C%20Harborline%20Systems&body=Hello%20Harborline%20Systems%2C%0A%0AI%20am%20interested%20in%20exploring%20your%20white%20label%20engineering%20service.%0A%0AAgency%20name%3A%0AWebsite%3A%0AType%20of%20projects%3A%0ACurrent%20engineering%20requirement%3A%0APreferred%20plan%3A%0A%0AI%20would%20like%20to%20discuss%20the%20paid%20pilot%20and%20next%20steps.",
+        "mailto:hello@harborlinesystems.ltd?subject=White%20label%20engineering%20partnership%20%7C%20Harborline%20Systems&body=Hello%20Harborline%20Systems%2C%0A%0AI%20am%20interested%20in%20exploring%20your%20white%20label%20engineering%20service.%0A%0AAgency%20name%3A%0AWebsite%3A%0AType%20of%20projects%3A%0ACurrent%20engineering%20requirement%3A%0APreferred%20plan%3A%0A%0AI%20would%20like%20to%20discuss%20the%20paid%20pilot%20and%20next%20steps.",
+        "mailto:hello@harborlinesystems.ltd?subject=White%20label%20engineering%20partnership%20%7C%20Harborline%20Systems&body=Hello%20Harborline%20Systems%2C%0A%0AI%20am%20interested%20in%20exploring%20your%20white%20label%20engineering%20service.%0A%0AAgency%20name%3A%0AWebsite%3A%0AType%20of%20projects%3A%0ACurrent%20engineering%20requirement%3A%0APreferred%20plan%3A%0A%0AI%20would%20like%20to%20discuss%20the%20paid%20pilot%20and%20next%20steps.",
+        "mailto:hello@harborlinesystems.ltd?subject=White%20label%20engineering%20partnership%20%7C%20Harborline%20Systems&body=Hello%20Harborline%20Systems%2C%0A%0AI%20am%20interested%20in%20exploring%20your%20white%20label%20engineering%20service.%0A%0AAgency%20name%3A%0AWebsite%3A%0AType%20of%20projects%3A%0ACurrent%20engineering%20requirement%3A%0APreferred%20plan%3A%0A%0AI%20would%20like%20to%20discuss%20the%20paid%20pilot%20and%20next%20steps.",
+        "mailto:hello@harborlinesystems.ltd?subject=White%20label%20engineering%20partnership%20%7C%20Harborline%20Systems&body=Hello%20Harborline%20Systems%2C%0A%0AI%20am%20interested%20in%20exploring%20your%20white%20label%20engineering%20service.%0A%0AAgency%20name%3A%0AWebsite%3A%0AType%20of%20projects%3A%0ACurrent%20engineering%20requirement%3A%0APreferred%20plan%3A%0A%0AI%20would%20like%20to%20discuss%20the%20paid%20pilot%20and%20next%20steps.",
+        "mailto:hello@harborlinesystems.ltd?subject=White%20label%20engineering%20partnership%20%7C%20Harborline%20Systems&body=Hello%20Harborline%20Systems%2C%0A%0AI%20am%20interested%20in%20exploring%20your%20white%20label%20engineering%20service.%0A%0AAgency%20name%3A%0AWebsite%3A%0AType%20of%20projects%3A%0ACurrent%20engineering%20requirement%3A%0APreferred%20plan%3A%0A%0AI%20would%20like%20to%20discuss%20the%20paid%20pilot%20and%20next%20steps.",
+        "mailto:hello@harborlinesystems.ltd"
+      ],
+      "localLinks": [
+        "/",
+        "/agencies",
+        "/businesses",
+        "/services",
+        "/how-it-works"
+      ],
+      "visibleMenuButton": false
+    },
+    {
+      "device": "standard-desktop",
+      "route": "/businesses",
+      "screenshot": null,
+      "title": "Business software and automation | Harborline Systems",
+      "description": "Describe the operational problem. Harborline builds practical software, AI and automation. Start with an audit, a robot build or a written custom quote.",
+      "canonical": "https://harborlinesystems.ltd/businesses",
+      "h1Count": 1,
+      "h1": "Tell us what is slowing your business down. We will map the useful next step.",
+      "viewportWidth": 1280,
+      "documentWidth": 1280,
+      "horizontalOverflow": 0,
+      "images": [
+        {
+          "source": "/images/warehouse-conversation.webp",
+          "alt": "Two women in a warehouse aisle talking as they review work. Stock photography, not a Harborline client engagement.",
+          "loaded": true,
+          "naturalWidth": 1800,
+          "renderedWidth": 563,
+          "renderedHeight": 375,
+          "loading": "eager"
+        },
+        {
+          "source": "/images/warehouse-worker.webp",
+          "alt": "A warehouse worker moving goods with a pallet jack beneath high shelves. Illustrative stock photography, not a Harborline client engagement.",
+          "loaded": true,
+          "naturalWidth": 1800,
+          "renderedWidth": 465,
+          "renderedHeight": 310,
+          "loading": "eager"
+        }
+      ],
+      "emailLinks": [
+        "mailto:hello@harborlinesystems.ltd?subject=White%20label%20engineering%20partnership%20%7C%20Harborline%20Systems&body=Hello%20Harborline%20Systems%2C%0A%0AI%20am%20interested%20in%20exploring%20your%20white%20label%20engineering%20service.%0A%0AAgency%20name%3A%0AWebsite%3A%0AType%20of%20projects%3A%0ACurrent%20engineering%20requirement%3A%0APreferred%20plan%3A%0A%0AI%20would%20like%20to%20discuss%20the%20paid%20pilot%20and%20next%20steps.",
+        "mailto:hello@harborlinesystems.ltd?subject=Software%20and%20AI%20project%20enquiry%20%7C%20Harborline%20Systems&body=Hello%20Harborline%20Systems%2C%0A%0AI%20am%20looking%20for%20help%20solving%20a%20business%20or%20technology%20problem.%0A%0ACompany%3A%0AWebsite%3A%0AWhat%20we%20are%20trying%20to%20achieve%3A%0AThe%20problem%20we%20are%20experiencing%3A%0APreferred%20timeline%3A%0A%0AI%20would%20like%20to%20discuss%20the%20best%20approach.",
+        "mailto:hello@harborlinesystems.ltd?subject=Software%20and%20AI%20project%20enquiry%20%7C%20Harborline%20Systems&body=Hello%20Harborline%20Systems%2C%0A%0AI%20am%20looking%20for%20help%20solving%20a%20business%20or%20technology%20problem.%0A%0ACompany%3A%0AWebsite%3A%0AWhat%20we%20are%20trying%20to%20achieve%3A%0AThe%20problem%20we%20are%20experiencing%3A%0APreferred%20timeline%3A%0A%0AI%20would%20like%20to%20discuss%20the%20best%20approach.",
+        "mailto:hello@harborlinesystems.ltd?subject=Software%20and%20AI%20project%20enquiry%20%7C%20Harborline%20Systems&body=Hello%20Harborline%20Systems%2C%0A%0AI%20am%20looking%20for%20help%20solving%20a%20business%20or%20technology%20problem.%0A%0ACompany%3A%0AWebsite%3A%0AWhat%20we%20are%20trying%20to%20achieve%3A%0AThe%20problem%20we%20are%20experiencing%3A%0APreferred%20timeline%3A%0A%0AI%20would%20like%20to%20discuss%20the%20best%20approach.",
+        "mailto:hello@harborlinesystems.ltd?subject=Software%20and%20AI%20project%20enquiry%20%7C%20Harborline%20Systems&body=Hello%20Harborline%20Systems%2C%0A%0AI%20am%20looking%20for%20help%20solving%20a%20business%20or%20technology%20problem.%0A%0ACompany%3A%0AWebsite%3A%0AWhat%20we%20are%20trying%20to%20achieve%3A%0AThe%20problem%20we%20are%20experiencing%3A%0APreferred%20timeline%3A%0A%0AI%20would%20like%20to%20discuss%20the%20best%20approach.",
+        "mailto:hello@harborlinesystems.ltd?subject=Software%20and%20AI%20project%20enquiry%20%7C%20Harborline%20Systems&body=Hello%20Harborline%20Systems%2C%0A%0AI%20am%20looking%20for%20help%20solving%20a%20business%20or%20technology%20problem.%0A%0ACompany%3A%0AWebsite%3A%0AWhat%20we%20are%20trying%20to%20achieve%3A%0AThe%20problem%20we%20are%20experiencing%3A%0APreferred%20timeline%3A%0A%0AI%20would%20like%20to%20discuss%20the%20best%20approach.",
+        "mailto:hello@harborlinesystems.ltd?subject=Software%20and%20AI%20project%20enquiry%20%7C%20Harborline%20Systems&body=Hello%20Harborline%20Systems%2C%0A%0AI%20am%20looking%20for%20help%20solving%20a%20business%20or%20technology%20problem.%0A%0ACompany%3A%0AWebsite%3A%0AWhat%20we%20are%20trying%20to%20achieve%3A%0AThe%20problem%20we%20are%20experiencing%3A%0APreferred%20timeline%3A%0A%0AI%20would%20like%20to%20discuss%20the%20best%20approach.",
+        "mailto:hello@harborlinesystems.ltd"
+      ],
+      "localLinks": [
+        "/",
+        "/agencies",
+        "/businesses",
+        "/services",
+        "/how-it-works"
+      ],
+      "visibleMenuButton": false
+    },
+    {
+      "device": "standard-desktop",
+      "route": "/services",
+      "screenshot": null,
+      "title": "Software and AI engineering services | Harborline Systems",
+      "description": "Explore Harborline Systems capabilities in software, AI, automation, integrations, applications, backend infrastructure and engineering support.",
+      "canonical": "https://harborlinesystems.ltd/services",
+      "h1Count": 1,
+      "h1": "Engineering shaped around the outcome.",
+      "viewportWidth": 1280,
+      "documentWidth": 1280,
+      "horizontalOverflow": 0,
+      "images": [],
+      "emailLinks": [
+        "mailto:hello@harborlinesystems.ltd?subject=White%20label%20engineering%20partnership%20%7C%20Harborline%20Systems&body=Hello%20Harborline%20Systems%2C%0A%0AI%20am%20interested%20in%20exploring%20your%20white%20label%20engineering%20service.%0A%0AAgency%20name%3A%0AWebsite%3A%0AType%20of%20projects%3A%0ACurrent%20engineering%20requirement%3A%0APreferred%20plan%3A%0A%0AI%20would%20like%20to%20discuss%20the%20paid%20pilot%20and%20next%20steps.",
+        "mailto:hello@harborlinesystems.ltd?subject=Software%20and%20AI%20project%20enquiry%20%7C%20Harborline%20Systems&body=Hello%20Harborline%20Systems%2C%0A%0AI%20am%20looking%20for%20help%20solving%20a%20business%20or%20technology%20problem.%0A%0ACompany%3A%0AWebsite%3A%0AWhat%20we%20are%20trying%20to%20achieve%3A%0AThe%20problem%20we%20are%20experiencing%3A%0APreferred%20timeline%3A%0A%0AI%20would%20like%20to%20discuss%20the%20best%20approach.",
+        "mailto:hello@harborlinesystems.ltd"
+      ],
+      "localLinks": [
+        "/",
+        "/agencies",
+        "/businesses",
+        "/services",
+        "/how-it-works"
+      ],
+      "visibleMenuButton": false
+    },
+    {
+      "device": "standard-desktop",
+      "route": "/how-it-works",
+      "screenshot": null,
+      "title": "How projects work with Harborline | Harborline Systems",
+      "description": "A clear path from problem to written scope, engineering and handover. See how to start an agency partnership or a direct business project.",
+      "canonical": "https://harborlinesystems.ltd/how-it-works",
+      "h1Count": 1,
+      "h1": "Clear from the first conversation.",
+      "viewportWidth": 1280,
+      "documentWidth": 1280,
+      "horizontalOverflow": 0,
+      "images": [],
+      "emailLinks": [
+        "mailto:hello@harborlinesystems.ltd?subject=White%20label%20engineering%20partnership%20%7C%20Harborline%20Systems&body=Hello%20Harborline%20Systems%2C%0A%0AI%20am%20interested%20in%20exploring%20your%20white%20label%20engineering%20service.%0A%0AAgency%20name%3A%0AWebsite%3A%0AType%20of%20projects%3A%0ACurrent%20engineering%20requirement%3A%0APreferred%20plan%3A%0A%0AI%20would%20like%20to%20discuss%20the%20paid%20pilot%20and%20next%20steps.",
+        "mailto:hello@harborlinesystems.ltd?subject=White%20label%20engineering%20partnership%20%7C%20Harborline%20Systems&body=Hello%20Harborline%20Systems%2C%0A%0AI%20am%20interested%20in%20exploring%20your%20white%20label%20engineering%20service.%0A%0AAgency%20name%3A%0AWebsite%3A%0AType%20of%20projects%3A%0ACurrent%20engineering%20requirement%3A%0APreferred%20plan%3A%0A%0AI%20would%20like%20to%20discuss%20the%20paid%20pilot%20and%20next%20steps.",
+        "mailto:hello@harborlinesystems.ltd?subject=Software%20and%20AI%20project%20enquiry%20%7C%20Harborline%20Systems&body=Hello%20Harborline%20Systems%2C%0A%0AI%20am%20looking%20for%20help%20solving%20a%20business%20or%20technology%20problem.%0A%0ACompany%3A%0AWebsite%3A%0AWhat%20we%20are%20trying%20to%20achieve%3A%0AThe%20problem%20we%20are%20experiencing%3A%0APreferred%20timeline%3A%0A%0AI%20would%20like%20to%20discuss%20the%20best%20approach.",
+        "mailto:hello@harborlinesystems.ltd?subject=White%20label%20engineering%20partnership%20%7C%20Harborline%20Systems&body=Hello%20Harborline%20Systems%2C%0A%0AI%20am%20interested%20in%20exploring%20your%20white%20label%20engineering%20service.%0A%0AAgency%20name%3A%0AWebsite%3A%0AType%20of%20projects%3A%0ACurrent%20engineering%20requirement%3A%0APreferred%20plan%3A%0A%0AI%20would%20like%20to%20discuss%20the%20paid%20pilot%20and%20next%20steps.",
+        "mailto:hello@harborlinesystems.ltd?subject=Software%20and%20AI%20project%20enquiry%20%7C%20Harborline%20Systems&body=Hello%20Harborline%20Systems%2C%0A%0AI%20am%20looking%20for%20help%20solving%20a%20business%20or%20technology%20problem.%0A%0ACompany%3A%0AWebsite%3A%0AWhat%20we%20are%20trying%20to%20achieve%3A%0AThe%20problem%20we%20are%20experiencing%3A%0APreferred%20timeline%3A%0A%0AI%20would%20like%20to%20discuss%20the%20best%20approach.",
+        "mailto:hello@harborlinesystems.ltd"
+      ],
+      "localLinks": [
+        "/",
+        "/agencies",
+        "/businesses",
+        "/services",
+        "/how-it-works"
+      ],
+      "visibleMenuButton": false
+    },
+    {
+      "device": "laptop",
+      "route": "/",
+      "screenshot": null,
+      "title": "Harborline Systems | Working software, built for the work",
+      "description": "White label engineering for agencies. Practical software, AI and automation for businesses, backed by 7 years and counting.",
+      "canonical": "https://harborlinesystems.ltd/",
+      "h1Count": 1,
+      "h1": "We turn complex technology problems into working solutions.",
+      "viewportWidth": 1024,
+      "documentWidth": 1024,
+      "horizontalOverflow": 0,
+      "images": [
+        {
+          "source": "/images/designer-at-work.webp",
+          "alt": "A person working at a laptop on a design interface. Illustrative stock photography.",
+          "loaded": true,
+          "naturalWidth": 1800,
+          "renderedWidth": 414,
+          "renderedHeight": 276,
+          "loading": "eager"
+        }
+      ],
+      "emailLinks": [
+        "mailto:hello@harborlinesystems.ltd?subject=White%20label%20engineering%20partnership%20%7C%20Harborline%20Systems&body=Hello%20Harborline%20Systems%2C%0A%0AI%20am%20interested%20in%20exploring%20your%20white%20label%20engineering%20service.%0A%0AAgency%20name%3A%0AWebsite%3A%0AType%20of%20projects%3A%0ACurrent%20engineering%20requirement%3A%0APreferred%20plan%3A%0A%0AI%20would%20like%20to%20discuss%20the%20paid%20pilot%20and%20next%20steps.",
+        "mailto:hello@harborlinesystems.ltd?subject=White%20label%20engineering%20partnership%20%7C%20Harborline%20Systems&body=Hello%20Harborline%20Systems%2C%0A%0AI%20am%20interested%20in%20exploring%20your%20white%20label%20engineering%20service.%0A%0AAgency%20name%3A%0AWebsite%3A%0AType%20of%20projects%3A%0ACurrent%20engineering%20requirement%3A%0APreferred%20plan%3A%0A%0AI%20would%20like%20to%20discuss%20the%20paid%20pilot%20and%20next%20steps.",
+        "mailto:hello@harborlinesystems.ltd?subject=Software%20and%20AI%20project%20enquiry%20%7C%20Harborline%20Systems&body=Hello%20Harborline%20Systems%2C%0A%0AI%20am%20looking%20for%20help%20solving%20a%20business%20or%20technology%20problem.%0A%0ACompany%3A%0AWebsite%3A%0AWhat%20we%20are%20trying%20to%20achieve%3A%0AThe%20problem%20we%20are%20experiencing%3A%0APreferred%20timeline%3A%0A%0AI%20would%20like%20to%20discuss%20the%20best%20approach.",
+        "mailto:hello@harborlinesystems.ltd",
+        "mailto:hello@harborlinesystems.ltd?subject=White%20label%20engineering%20partnership%20%7C%20Harborline%20Systems&body=Hello%20Harborline%20Systems%2C%0A%0AI%20am%20interested%20in%20exploring%20your%20white%20label%20engineering%20service.%0A%0AAgency%20name%3A%0AWebsite%3A%0AType%20of%20projects%3A%0ACurrent%20engineering%20requirement%3A%0APreferred%20plan%3A%0A%0AI%20would%20like%20to%20discuss%20the%20paid%20pilot%20and%20next%20steps.",
+        "mailto:hello@harborlinesystems.ltd?subject=Software%20and%20AI%20project%20enquiry%20%7C%20Harborline%20Systems&body=Hello%20Harborline%20Systems%2C%0A%0AI%20am%20looking%20for%20help%20solving%20a%20business%20or%20technology%20problem.%0A%0ACompany%3A%0AWebsite%3A%0AWhat%20we%20are%20trying%20to%20achieve%3A%0AThe%20problem%20we%20are%20experiencing%3A%0APreferred%20timeline%3A%0A%0AI%20would%20like%20to%20discuss%20the%20best%20approach.",
+        "mailto:hello@harborlinesystems.ltd"
+      ],
+      "localLinks": [
+        "/",
+        "/agencies",
+        "/businesses",
+        "/services",
+        "/how-it-works"
+      ],
+      "visibleMenuButton": false
+    },
+    {
+      "device": "laptop",
+      "route": "/agencies",
+      "screenshot": null,
+      "title": "Agency engineering capacity | Harborline Systems",
+      "description": "Confidential white label engineering for agencies. Start with a $750 paid pilot, or choose a Half seat or Full seat for ongoing delivery capacity.",
+      "canonical": "https://harborlinesystems.ltd/agencies",
+      "h1Count": 1,
+      "h1": "Your agency can take on more work. Without hiring another developer.",
+      "viewportWidth": 1024,
+      "documentWidth": 1024,
+      "horizontalOverflow": 0,
+      "images": [],
+      "emailLinks": [
+        "mailto:hello@harborlinesystems.ltd?subject=White%20label%20engineering%20partnership%20%7C%20Harborline%20Systems&body=Hello%20Harborline%20Systems%2C%0A%0AI%20am%20interested%20in%20exploring%20your%20white%20label%20engineering%20service.%0A%0AAgency%20name%3A%0AWebsite%3A%0AType%20of%20projects%3A%0ACurrent%20engineering%20requirement%3A%0APreferred%20plan%3A%0A%0AI%20would%20like%20to%20discuss%20the%20paid%20pilot%20and%20next%20steps.",
+        "mailto:hello@harborlinesystems.ltd?subject=White%20label%20engineering%20partnership%20%7C%20Harborline%20Systems&body=Hello%20Harborline%20Systems%2C%0A%0AI%20am%20interested%20in%20exploring%20your%20white%20label%20engineering%20service.%0A%0AAgency%20name%3A%0AWebsite%3A%0AType%20of%20projects%3A%0ACurrent%20engineering%20requirement%3A%0APreferred%20plan%3A%0A%0AI%20would%20like%20to%20discuss%20the%20paid%20pilot%20and%20next%20steps.",
+        "mailto:hello@harborlinesystems.ltd?subject=White%20label%20engineering%20partnership%20%7C%20Harborline%20Systems&body=Hello%20Harborline%20Systems%2C%0A%0AI%20am%20interested%20in%20exploring%20your%20white%20label%20engineering%20service.%0A%0AAgency%20name%3A%0AWebsite%3A%0AType%20of%20projects%3A%0ACurrent%20engineering%20requirement%3A%0APreferred%20plan%3A%0A%0AI%20would%20like%20to%20discuss%20the%20paid%20pilot%20and%20next%20steps.",
+        "mailto:hello@harborlinesystems.ltd?subject=White%20label%20engineering%20partnership%20%7C%20Harborline%20Systems&body=Hello%20Harborline%20Systems%2C%0A%0AI%20am%20interested%20in%20exploring%20your%20white%20label%20engineering%20service.%0A%0AAgency%20name%3A%0AWebsite%3A%0AType%20of%20projects%3A%0ACurrent%20engineering%20requirement%3A%0APreferred%20plan%3A%0A%0AI%20would%20like%20to%20discuss%20the%20paid%20pilot%20and%20next%20steps.",
+        "mailto:hello@harborlinesystems.ltd?subject=White%20label%20engineering%20partnership%20%7C%20Harborline%20Systems&body=Hello%20Harborline%20Systems%2C%0A%0AI%20am%20interested%20in%20exploring%20your%20white%20label%20engineering%20service.%0A%0AAgency%20name%3A%0AWebsite%3A%0AType%20of%20projects%3A%0ACurrent%20engineering%20requirement%3A%0APreferred%20plan%3A%0A%0AI%20would%20like%20to%20discuss%20the%20paid%20pilot%20and%20next%20steps.",
+        "mailto:hello@harborlinesystems.ltd?subject=White%20label%20engineering%20partnership%20%7C%20Harborline%20Systems&body=Hello%20Harborline%20Systems%2C%0A%0AI%20am%20interested%20in%20exploring%20your%20white%20label%20engineering%20service.%0A%0AAgency%20name%3A%0AWebsite%3A%0AType%20of%20projects%3A%0ACurrent%20engineering%20requirement%3A%0APreferred%20plan%3A%0A%0AI%20would%20like%20to%20discuss%20the%20paid%20pilot%20and%20next%20steps.",
+        "mailto:hello@harborlinesystems.ltd"
+      ],
+      "localLinks": [
+        "/",
+        "/agencies",
+        "/businesses",
+        "/services",
+        "/how-it-works"
+      ],
+      "visibleMenuButton": false
+    },
+    {
+      "device": "laptop",
+      "route": "/businesses",
+      "screenshot": null,
+      "title": "Business software and automation | Harborline Systems",
+      "description": "Describe the operational problem. Harborline builds practical software, AI and automation. Start with an audit, a robot build or a written custom quote.",
+      "canonical": "https://harborlinesystems.ltd/businesses",
+      "h1Count": 1,
+      "h1": "Tell us what is slowing your business down. We will map the useful next step.",
+      "viewportWidth": 1024,
+      "documentWidth": 1024,
+      "horizontalOverflow": 0,
+      "images": [
+        {
+          "source": "/images/warehouse-conversation.webp",
+          "alt": "Two women in a warehouse aisle talking as they review work. Stock photography, not a Harborline client engagement.",
+          "loaded": true,
+          "naturalWidth": 1800,
+          "renderedWidth": 437,
+          "renderedHeight": 292,
+          "loading": "eager"
+        },
+        {
+          "source": "/images/warehouse-worker.webp",
+          "alt": "A warehouse worker moving goods with a pallet jack beneath high shelves. Illustrative stock photography, not a Harborline client engagement.",
+          "loaded": true,
+          "naturalWidth": 1800,
+          "renderedWidth": 392,
+          "renderedHeight": 261,
+          "loading": "eager"
+        }
+      ],
+      "emailLinks": [
+        "mailto:hello@harborlinesystems.ltd?subject=White%20label%20engineering%20partnership%20%7C%20Harborline%20Systems&body=Hello%20Harborline%20Systems%2C%0A%0AI%20am%20interested%20in%20exploring%20your%20white%20label%20engineering%20service.%0A%0AAgency%20name%3A%0AWebsite%3A%0AType%20of%20projects%3A%0ACurrent%20engineering%20requirement%3A%0APreferred%20plan%3A%0A%0AI%20would%20like%20to%20discuss%20the%20paid%20pilot%20and%20next%20steps.",
+        "mailto:hello@harborlinesystems.ltd?subject=Software%20and%20AI%20project%20enquiry%20%7C%20Harborline%20Systems&body=Hello%20Harborline%20Systems%2C%0A%0AI%20am%20looking%20for%20help%20solving%20a%20business%20or%20technology%20problem.%0A%0ACompany%3A%0AWebsite%3A%0AWhat%20we%20are%20trying%20to%20achieve%3A%0AThe%20problem%20we%20are%20experiencing%3A%0APreferred%20timeline%3A%0A%0AI%20would%20like%20to%20discuss%20the%20best%20approach.",
+        "mailto:hello@harborlinesystems.ltd?subject=Software%20and%20AI%20project%20enquiry%20%7C%20Harborline%20Systems&body=Hello%20Harborline%20Systems%2C%0A%0AI%20am%20looking%20for%20help%20solving%20a%20business%20or%20technology%20problem.%0A%0ACompany%3A%0AWebsite%3A%0AWhat%20we%20are%20trying%20to%20achieve%3A%0AThe%20problem%20we%20are%20experiencing%3A%0APreferred%20timeline%3A%0A%0AI%20would%20like%20to%20discuss%20the%20best%20approach.",
+        "mailto:hello@harborlinesystems.ltd?subject=Software%20and%20AI%20project%20enquiry%20%7C%20Harborline%20Systems&body=Hello%20Harborline%20Systems%2C%0A%0AI%20am%20looking%20for%20help%20solving%20a%20business%20or%20technology%20problem.%0A%0ACompany%3A%0AWebsite%3A%0AWhat%20we%20are%20trying%20to%20achieve%3A%0AThe%20problem%20we%20are%20experiencing%3A%0APreferred%20timeline%3A%0A%0AI%20would%20like%20to%20discuss%20the%20best%20approach.",
+        "mailto:hello@harborlinesystems.ltd?subject=Software%20and%20AI%20project%20enquiry%20%7C%20Harborline%20Systems&body=Hello%20Harborline%20Systems%2C%0A%0AI%20am%20looking%20for%20help%20solving%20a%20business%20or%20technology%20problem.%0A%0ACompany%3A%0AWebsite%3A%0AWhat%20we%20are%20trying%20to%20achieve%3A%0AThe%20problem%20we%20are%20experiencing%3A%0APreferred%20timeline%3A%0A%0AI%20would%20like%20to%20discuss%20the%20best%20approach.",
+        "mailto:hello@harborlinesystems.ltd?subject=Software%20and%20AI%20project%20enquiry%20%7C%20Harborline%20Systems&body=Hello%20Harborline%20Systems%2C%0A%0AI%20am%20looking%20for%20help%20solving%20a%20business%20or%20technology%20problem.%0A%0ACompany%3A%0AWebsite%3A%0AWhat%20we%20are%20trying%20to%20achieve%3A%0AThe%20problem%20we%20are%20experiencing%3A%0APreferred%20timeline%3A%0A%0AI%20would%20like%20to%20discuss%20the%20best%20approach.",
+        "mailto:hello@harborlinesystems.ltd?subject=Software%20and%20AI%20project%20enquiry%20%7C%20Harborline%20Systems&body=Hello%20Harborline%20Systems%2C%0A%0AI%20am%20looking%20for%20help%20solving%20a%20business%20or%20technology%20problem.%0A%0ACompany%3A%0AWebsite%3A%0AWhat%20we%20are%20trying%20to%20achieve%3A%0AThe%20problem%20we%20are%20experiencing%3A%0APreferred%20timeline%3A%0A%0AI%20would%20like%20to%20discuss%20the%20best%20approach.",
+        "mailto:hello@harborlinesystems.ltd"
+      ],
+      "localLinks": [
+        "/",
+        "/agencies",
+        "/businesses",
+        "/services",
+        "/how-it-works"
+      ],
+      "visibleMenuButton": false
+    },
+    {
+      "device": "laptop",
+      "route": "/services",
+      "screenshot": null,
+      "title": "Software and AI engineering services | Harborline Systems",
+      "description": "Explore Harborline Systems capabilities in software, AI, automation, integrations, applications, backend infrastructure and engineering support.",
+      "canonical": "https://harborlinesystems.ltd/services",
+      "h1Count": 1,
+      "h1": "Engineering shaped around the outcome.",
+      "viewportWidth": 1024,
+      "documentWidth": 1024,
+      "horizontalOverflow": 0,
+      "images": [],
+      "emailLinks": [
+        "mailto:hello@harborlinesystems.ltd?subject=White%20label%20engineering%20partnership%20%7C%20Harborline%20Systems&body=Hello%20Harborline%20Systems%2C%0A%0AI%20am%20interested%20in%20exploring%20your%20white%20label%20engineering%20service.%0A%0AAgency%20name%3A%0AWebsite%3A%0AType%20of%20projects%3A%0ACurrent%20engineering%20requirement%3A%0APreferred%20plan%3A%0A%0AI%20would%20like%20to%20discuss%20the%20paid%20pilot%20and%20next%20steps.",
+        "mailto:hello@harborlinesystems.ltd?subject=Software%20and%20AI%20project%20enquiry%20%7C%20Harborline%20Systems&body=Hello%20Harborline%20Systems%2C%0A%0AI%20am%20looking%20for%20help%20solving%20a%20business%20or%20technology%20problem.%0A%0ACompany%3A%0AWebsite%3A%0AWhat%20we%20are%20trying%20to%20achieve%3A%0AThe%20problem%20we%20are%20experiencing%3A%0APreferred%20timeline%3A%0A%0AI%20would%20like%20to%20discuss%20the%20best%20approach.",
+        "mailto:hello@harborlinesystems.ltd"
+      ],
+      "localLinks": [
+        "/",
+        "/agencies",
+        "/businesses",
+        "/services",
+        "/how-it-works"
+      ],
+      "visibleMenuButton": false
+    },
+    {
+      "device": "laptop",
+      "route": "/how-it-works",
+      "screenshot": null,
+      "title": "How projects work with Harborline | Harborline Systems",
+      "description": "A clear path from problem to written scope, engineering and handover. See how to start an agency partnership or a direct business project.",
+      "canonical": "https://harborlinesystems.ltd/how-it-works",
+      "h1Count": 1,
+      "h1": "Clear from the first conversation.",
+      "viewportWidth": 1024,
+      "documentWidth": 1024,
+      "horizontalOverflow": 0,
+      "images": [],
+      "emailLinks": [
+        "mailto:hello@harborlinesystems.ltd?subject=White%20label%20engineering%20partnership%20%7C%20Harborline%20Systems&body=Hello%20Harborline%20Systems%2C%0A%0AI%20am%20interested%20in%20exploring%20your%20white%20label%20engineering%20service.%0A%0AAgency%20name%3A%0AWebsite%3A%0AType%20of%20projects%3A%0ACurrent%20engineering%20requirement%3A%0APreferred%20plan%3A%0A%0AI%20would%20like%20to%20discuss%20the%20paid%20pilot%20and%20next%20steps.",
+        "mailto:hello@harborlinesystems.ltd?subject=White%20label%20engineering%20partnership%20%7C%20Harborline%20Systems&body=Hello%20Harborline%20Systems%2C%0A%0AI%20am%20interested%20in%20exploring%20your%20white%20label%20engineering%20service.%0A%0AAgency%20name%3A%0AWebsite%3A%0AType%20of%20projects%3A%0ACurrent%20engineering%20requirement%3A%0APreferred%20plan%3A%0A%0AI%20would%20like%20to%20discuss%20the%20paid%20pilot%20and%20next%20steps.",
+        "mailto:hello@harborlinesystems.ltd?subject=Software%20and%20AI%20project%20enquiry%20%7C%20Harborline%20Systems&body=Hello%20Harborline%20Systems%2C%0A%0AI%20am%20looking%20for%20help%20solving%20a%20business%20or%20technology%20problem.%0A%0ACompany%3A%0AWebsite%3A%0AWhat%20we%20are%20trying%20to%20achieve%3A%0AThe%20problem%20we%20are%20experiencing%3A%0APreferred%20timeline%3A%0A%0AI%20would%20like%20to%20discuss%20the%20best%20approach.",
+        "mailto:hello@harborlinesystems.ltd?subject=White%20label%20engineering%20partnership%20%7C%20Harborline%20Systems&body=Hello%20Harborline%20Systems%2C%0A%0AI%20am%20interested%20in%20exploring%20your%20white%20label%20engineering%20service.%0A%0AAgency%20name%3A%0AWebsite%3A%0AType%20of%20projects%3A%0ACurrent%20engineering%20requirement%3A%0APreferred%20plan%3A%0A%0AI%20would%20like%20to%20discuss%20the%20paid%20pilot%20and%20next%20steps.",
+        "mailto:hello@harborlinesystems.ltd?subject=Software%20and%20AI%20project%20enquiry%20%7C%20Harborline%20Systems&body=Hello%20Harborline%20Systems%2C%0A%0AI%20am%20looking%20for%20help%20solving%20a%20business%20or%20technology%20problem.%0A%0ACompany%3A%0AWebsite%3A%0AWhat%20we%20are%20trying%20to%20achieve%3A%0AThe%20problem%20we%20are%20experiencing%3A%0APreferred%20timeline%3A%0A%0AI%20would%20like%20to%20discuss%20the%20best%20approach.",
+        "mailto:hello@harborlinesystems.ltd"
+      ],
+      "localLinks": [
+        "/",
+        "/agencies",
+        "/businesses",
+        "/services",
+        "/how-it-works"
+      ],
+      "visibleMenuButton": false
+    },
+    {
+      "device": "tablet",
+      "route": "/",
+      "screenshot": null,
+      "title": "Harborline Systems | Working software, built for the work",
+      "description": "White label engineering for agencies. Practical software, AI and automation for businesses, backed by 7 years and counting.",
+      "canonical": "https://harborlinesystems.ltd/",
+      "h1Count": 1,
+      "h1": "We turn complex technology problems into working solutions.",
+      "viewportWidth": 768,
+      "documentWidth": 768,
+      "horizontalOverflow": 0,
+      "images": [
+        {
+          "source": "/images/designer-at-work.webp",
+          "alt": "A person working at a laptop on a design interface. Illustrative stock photography.",
+          "loaded": true,
+          "naturalWidth": 1800,
+          "renderedWidth": 298,
+          "renderedHeight": 199,
+          "loading": "eager"
+        }
+      ],
+      "emailLinks": [
+        "mailto:hello@harborlinesystems.ltd?subject=White%20label%20engineering%20partnership%20%7C%20Harborline%20Systems&body=Hello%20Harborline%20Systems%2C%0A%0AI%20am%20interested%20in%20exploring%20your%20white%20label%20engineering%20service.%0A%0AAgency%20name%3A%0AWebsite%3A%0AType%20of%20projects%3A%0ACurrent%20engineering%20requirement%3A%0APreferred%20plan%3A%0A%0AI%20would%20like%20to%20discuss%20the%20paid%20pilot%20and%20next%20steps.",
+        "mailto:hello@harborlinesystems.ltd?subject=White%20label%20engineering%20partnership%20%7C%20Harborline%20Systems&body=Hello%20Harborline%20Systems%2C%0A%0AI%20am%20interested%20in%20exploring%20your%20white%20label%20engineering%20service.%0A%0AAgency%20name%3A%0AWebsite%3A%0AType%20of%20projects%3A%0ACurrent%20engineering%20requirement%3A%0APreferred%20plan%3A%0A%0AI%20would%20like%20to%20discuss%20the%20paid%20pilot%20and%20next%20steps.",
+        "mailto:hello@harborlinesystems.ltd?subject=Software%20and%20AI%20project%20enquiry%20%7C%20Harborline%20Systems&body=Hello%20Harborline%20Systems%2C%0A%0AI%20am%20looking%20for%20help%20solving%20a%20business%20or%20technology%20problem.%0A%0ACompany%3A%0AWebsite%3A%0AWhat%20we%20are%20trying%20to%20achieve%3A%0AThe%20problem%20we%20are%20experiencing%3A%0APreferred%20timeline%3A%0A%0AI%20would%20like%20to%20discuss%20the%20best%20approach.",
+        "mailto:hello@harborlinesystems.ltd",
+        "mailto:hello@harborlinesystems.ltd?subject=White%20label%20engineering%20partnership%20%7C%20Harborline%20Systems&body=Hello%20Harborline%20Systems%2C%0A%0AI%20am%20interested%20in%20exploring%20your%20white%20label%20engineering%20service.%0A%0AAgency%20name%3A%0AWebsite%3A%0AType%20of%20projects%3A%0ACurrent%20engineering%20requirement%3A%0APreferred%20plan%3A%0A%0AI%20would%20like%20to%20discuss%20the%20paid%20pilot%20and%20next%20steps.",
+        "mailto:hello@harborlinesystems.ltd?subject=Software%20and%20AI%20project%20enquiry%20%7C%20Harborline%20Systems&body=Hello%20Harborline%20Systems%2C%0A%0AI%20am%20looking%20for%20help%20solving%20a%20business%20or%20technology%20problem.%0A%0ACompany%3A%0AWebsite%3A%0AWhat%20we%20are%20trying%20to%20achieve%3A%0AThe%20problem%20we%20are%20experiencing%3A%0APreferred%20timeline%3A%0A%0AI%20would%20like%20to%20discuss%20the%20best%20approach.",
+        "mailto:hello@harborlinesystems.ltd"
+      ],
+      "localLinks": [
+        "/",
+        "/agencies",
+        "/businesses",
+        "/services",
+        "/how-it-works"
+      ],
+      "visibleMenuButton": false
+    },
+    {
+      "device": "tablet",
+      "route": "/agencies",
+      "screenshot": null,
+      "title": "Agency engineering capacity | Harborline Systems",
+      "description": "Confidential white label engineering for agencies. Start with a $750 paid pilot, or choose a Half seat or Full seat for ongoing delivery capacity.",
+      "canonical": "https://harborlinesystems.ltd/agencies",
+      "h1Count": 1,
+      "h1": "Your agency can take on more work. Without hiring another developer.",
+      "viewportWidth": 768,
+      "documentWidth": 768,
+      "horizontalOverflow": 0,
+      "images": [],
+      "emailLinks": [
+        "mailto:hello@harborlinesystems.ltd?subject=White%20label%20engineering%20partnership%20%7C%20Harborline%20Systems&body=Hello%20Harborline%20Systems%2C%0A%0AI%20am%20interested%20in%20exploring%20your%20white%20label%20engineering%20service.%0A%0AAgency%20name%3A%0AWebsite%3A%0AType%20of%20projects%3A%0ACurrent%20engineering%20requirement%3A%0APreferred%20plan%3A%0A%0AI%20would%20like%20to%20discuss%20the%20paid%20pilot%20and%20next%20steps.",
+        "mailto:hello@harborlinesystems.ltd?subject=White%20label%20engineering%20partnership%20%7C%20Harborline%20Systems&body=Hello%20Harborline%20Systems%2C%0A%0AI%20am%20interested%20in%20exploring%20your%20white%20label%20engineering%20service.%0A%0AAgency%20name%3A%0AWebsite%3A%0AType%20of%20projects%3A%0ACurrent%20engineering%20requirement%3A%0APreferred%20plan%3A%0A%0AI%20would%20like%20to%20discuss%20the%20paid%20pilot%20and%20next%20steps.",
+        "mailto:hello@harborlinesystems.ltd?subject=White%20label%20engineering%20partnership%20%7C%20Harborline%20Systems&body=Hello%20Harborline%20Systems%2C%0A%0AI%20am%20interested%20in%20exploring%20your%20white%20label%20engineering%20service.%0A%0AAgency%20name%3A%0AWebsite%3A%0AType%20of%20projects%3A%0ACurrent%20engineering%20requirement%3A%0APreferred%20plan%3A%0A%0AI%20would%20like%20to%20discuss%20the%20paid%20pilot%20and%20next%20steps.",
+        "mailto:hello@harborlinesystems.ltd?subject=White%20label%20engineering%20partnership%20%7C%20Harborline%20Systems&body=Hello%20Harborline%20Systems%2C%0A%0AI%20am%20interested%20in%20exploring%20your%20white%20label%20engineering%20service.%0A%0AAgency%20name%3A%0AWebsite%3A%0AType%20of%20projects%3A%0ACurrent%20engineering%20requirement%3A%0APreferred%20plan%3A%0A%0AI%20would%20like%20to%20discuss%20the%20paid%20pilot%20and%20next%20steps.",
+        "mailto:hello@harborlinesystems.ltd?subject=White%20label%20engineering%20partnership%20%7C%20Harborline%20Systems&body=Hello%20Harborline%20Systems%2C%0A%0AI%20am%20interested%20in%20exploring%20your%20white%20label%20engineering%20service.%0A%0AAgency%20name%3A%0AWebsite%3A%0AType%20of%20projects%3A%0ACurrent%20engineering%20requirement%3A%0APreferred%20plan%3A%0A%0AI%20would%20like%20to%20discuss%20the%20paid%20pilot%20and%20next%20steps.",
+        "mailto:hello@harborlinesystems.ltd?subject=White%20label%20engineering%20partnership%20%7C%20Harborline%20Systems&body=Hello%20Harborline%20Systems%2C%0A%0AI%20am%20interested%20in%20exploring%20your%20white%20label%20engineering%20service.%0A%0AAgency%20name%3A%0AWebsite%3A%0AType%20of%20projects%3A%0ACurrent%20engineering%20requirement%3A%0APreferred%20plan%3A%0A%0AI%20would%20like%20to%20discuss%20the%20paid%20pilot%20and%20next%20steps.",
+        "mailto:hello@harborlinesystems.ltd"
+      ],
+      "localLinks": [
+        "/",
+        "/agencies",
+        "/businesses",
+        "/services",
+        "/how-it-works"
+      ],
+      "visibleMenuButton": false
+    },
+    {
+      "device": "tablet",
+      "route": "/businesses",
+      "screenshot": null,
+      "title": "Business software and automation | Harborline Systems",
+      "description": "Describe the operational problem. Harborline builds practical software, AI and automation. Start with an audit, a robot build or a written custom quote.",
+      "canonical": "https://harborlinesystems.ltd/businesses",
+      "h1Count": 1,
+      "h1": "Tell us what is slowing your business down. We will map the useful next step.",
+      "viewportWidth": 768,
+      "documentWidth": 768,
+      "horizontalOverflow": 0,
+      "images": [
+        {
+          "source": "/images/warehouse-conversation.webp",
+          "alt": "Two women in a warehouse aisle talking as they review work. Stock photography, not a Harborline client engagement.",
+          "loaded": true,
+          "naturalWidth": 1800,
+          "renderedWidth": 350,
+          "renderedHeight": 233,
+          "loading": "eager"
+        },
+        {
+          "source": "/images/warehouse-worker.webp",
+          "alt": "A warehouse worker moving goods with a pallet jack beneath high shelves. Illustrative stock photography, not a Harborline client engagement.",
+          "loaded": true,
+          "naturalWidth": 1800,
+          "renderedWidth": 284,
+          "renderedHeight": 189,
+          "loading": "eager"
+        }
+      ],
+      "emailLinks": [
+        "mailto:hello@harborlinesystems.ltd?subject=White%20label%20engineering%20partnership%20%7C%20Harborline%20Systems&body=Hello%20Harborline%20Systems%2C%0A%0AI%20am%20interested%20in%20exploring%20your%20white%20label%20engineering%20service.%0A%0AAgency%20name%3A%0AWebsite%3A%0AType%20of%20projects%3A%0ACurrent%20engineering%20requirement%3A%0APreferred%20plan%3A%0A%0AI%20would%20like%20to%20discuss%20the%20paid%20pilot%20and%20next%20steps.",
+        "mailto:hello@harborlinesystems.ltd?subject=Software%20and%20AI%20project%20enquiry%20%7C%20Harborline%20Systems&body=Hello%20Harborline%20Systems%2C%0A%0AI%20am%20looking%20for%20help%20solving%20a%20business%20or%20technology%20problem.%0A%0ACompany%3A%0AWebsite%3A%0AWhat%20we%20are%20trying%20to%20achieve%3A%0AThe%20problem%20we%20are%20experiencing%3A%0APreferred%20timeline%3A%0A%0AI%20would%20like%20to%20discuss%20the%20best%20approach.",
+        "mailto:hello@harborlinesystems.ltd?subject=Software%20and%20AI%20project%20enquiry%20%7C%20Harborline%20Systems&body=Hello%20Harborline%20Systems%2C%0A%0AI%20am%20looking%20for%20help%20solving%20a%20business%20or%20technology%20problem.%0A%0ACompany%3A%0AWebsite%3A%0AWhat%20we%20are%20trying%20to%20achieve%3A%0AThe%20problem%20we%20are%20experiencing%3A%0APreferred%20timeline%3A%0A%0AI%20would%20like%20to%20discuss%20the%20best%20approach.",
+        "mailto:hello@harborlinesystems.ltd?subject=Software%20and%20AI%20project%20enquiry%20%7C%20Harborline%20Systems&body=Hello%20Harborline%20Systems%2C%0A%0AI%20am%20looking%20for%20help%20solving%20a%20business%20or%20technology%20problem.%0A%0ACompany%3A%0AWebsite%3A%0AWhat%20we%20are%20trying%20to%20achieve%3A%0AThe%20problem%20we%20are%20experiencing%3A%0APreferred%20timeline%3A%0A%0AI%20would%20like%20to%20discuss%20the%20best%20approach.",
+        "mailto:hello@harborlinesystems.ltd?subject=Software%20and%20AI%20project%20enquiry%20%7C%20Harborline%20Systems&body=Hello%20Harborline%20Systems%2C%0A%0AI%20am%20looking%20for%20help%20solving%20a%20business%20or%20technology%20problem.%0A%0ACompany%3A%0AWebsite%3A%0AWhat%20we%20are%20trying%20to%20achieve%3A%0AThe%20problem%20we%20are%20experiencing%3A%0APreferred%20timeline%3A%0A%0AI%20would%20like%20to%20discuss%20the%20best%20approach.",
+        "mailto:hello@harborlinesystems.ltd?subject=Software%20and%20AI%20project%20enquiry%20%7C%20Harborline%20Systems&body=Hello%20Harborline%20Systems%2C%0A%0AI%20am%20looking%20for%20help%20solving%20a%20business%20or%20technology%20problem.%0A%0ACompany%3A%0AWebsite%3A%0AWhat%20we%20are%20trying%20to%20achieve%3A%0AThe%20problem%20we%20are%20experiencing%3A%0APreferred%20timeline%3A%0A%0AI%20would%20like%20to%20discuss%20the%20best%20approach.",
+        "mailto:hello@harborlinesystems.ltd?subject=Software%20and%20AI%20project%20enquiry%20%7C%20Harborline%20Systems&body=Hello%20Harborline%20Systems%2C%0A%0AI%20am%20looking%20for%20help%20solving%20a%20business%20or%20technology%20problem.%0A%0ACompany%3A%0AWebsite%3A%0AWhat%20we%20are%20trying%20to%20achieve%3A%0AThe%20problem%20we%20are%20experiencing%3A%0APreferred%20timeline%3A%0A%0AI%20would%20like%20to%20discuss%20the%20best%20approach.",
+        "mailto:hello@harborlinesystems.ltd"
+      ],
+      "localLinks": [
+        "/",
+        "/agencies",
+        "/businesses",
+        "/services",
+        "/how-it-works"
+      ],
+      "visibleMenuButton": false
+    },
+    {
+      "device": "tablet",
+      "route": "/services",
+      "screenshot": null,
+      "title": "Software and AI engineering services | Harborline Systems",
+      "description": "Explore Harborline Systems capabilities in software, AI, automation, integrations, applications, backend infrastructure and engineering support.",
+      "canonical": "https://harborlinesystems.ltd/services",
+      "h1Count": 1,
+      "h1": "Engineering shaped around the outcome.",
+      "viewportWidth": 768,
+      "documentWidth": 768,
+      "horizontalOverflow": 0,
+      "images": [],
+      "emailLinks": [
+        "mailto:hello@harborlinesystems.ltd?subject=White%20label%20engineering%20partnership%20%7C%20Harborline%20Systems&body=Hello%20Harborline%20Systems%2C%0A%0AI%20am%20interested%20in%20exploring%20your%20white%20label%20engineering%20service.%0A%0AAgency%20name%3A%0AWebsite%3A%0AType%20of%20projects%3A%0ACurrent%20engineering%20requirement%3A%0APreferred%20plan%3A%0A%0AI%20would%20like%20to%20discuss%20the%20paid%20pilot%20and%20next%20steps.",
+        "mailto:hello@harborlinesystems.ltd?subject=Software%20and%20AI%20project%20enquiry%20%7C%20Harborline%20Systems&body=Hello%20Harborline%20Systems%2C%0A%0AI%20am%20looking%20for%20help%20solving%20a%20business%20or%20technology%20problem.%0A%0ACompany%3A%0AWebsite%3A%0AWhat%20we%20are%20trying%20to%20achieve%3A%0AThe%20problem%20we%20are%20experiencing%3A%0APreferred%20timeline%3A%0A%0AI%20would%20like%20to%20discuss%20the%20best%20approach.",
+        "mailto:hello@harborlinesystems.ltd"
+      ],
+      "localLinks": [
+        "/",
+        "/agencies",
+        "/businesses",
+        "/services",
+        "/how-it-works"
+      ],
+      "visibleMenuButton": false
+    },
+    {
+      "device": "tablet",
+      "route": "/how-it-works",
+      "screenshot": null,
+      "title": "How projects work with Harborline | Harborline Systems",
+      "description": "A clear path from problem to written scope, engineering and handover. See how to start an agency partnership or a direct business project.",
+      "canonical": "https://harborlinesystems.ltd/how-it-works",
+      "h1Count": 1,
+      "h1": "Clear from the first conversation.",
+      "viewportWidth": 768,
+      "documentWidth": 768,
+      "horizontalOverflow": 0,
+      "images": [],
+      "emailLinks": [
+        "mailto:hello@harborlinesystems.ltd?subject=White%20label%20engineering%20partnership%20%7C%20Harborline%20Systems&body=Hello%20Harborline%20Systems%2C%0A%0AI%20am%20interested%20in%20exploring%20your%20white%20label%20engineering%20service.%0A%0AAgency%20name%3A%0AWebsite%3A%0AType%20of%20projects%3A%0ACurrent%20engineering%20requirement%3A%0APreferred%20plan%3A%0A%0AI%20would%20like%20to%20discuss%20the%20paid%20pilot%20and%20next%20steps.",
+        "mailto:hello@harborlinesystems.ltd?subject=White%20label%20engineering%20partnership%20%7C%20Harborline%20Systems&body=Hello%20Harborline%20Systems%2C%0A%0AI%20am%20interested%20in%20exploring%20your%20white%20label%20engineering%20service.%0A%0AAgency%20name%3A%0AWebsite%3A%0AType%20of%20projects%3A%0ACurrent%20engineering%20requirement%3A%0APreferred%20plan%3A%0A%0AI%20would%20like%20to%20discuss%20the%20paid%20pilot%20and%20next%20steps.",
+        "mailto:hello@harborlinesystems.ltd?subject=Software%20and%20AI%20project%20enquiry%20%7C%20Harborline%20Systems&body=Hello%20Harborline%20Systems%2C%0A%0AI%20am%20looking%20for%20help%20solving%20a%20business%20or%20technology%20problem.%0A%0ACompany%3A%0AWebsite%3A%0AWhat%20we%20are%20trying%20to%20achieve%3A%0AThe%20problem%20we%20are%20experiencing%3A%0APreferred%20timeline%3A%0A%0AI%20would%20like%20to%20discuss%20the%20best%20approach.",
+        "mailto:hello@harborlinesystems.ltd?subject=White%20label%20engineering%20partnership%20%7C%20Harborline%20Systems&body=Hello%20Harborline%20Systems%2C%0A%0AI%20am%20interested%20in%20exploring%20your%20white%20label%20engineering%20service.%0A%0AAgency%20name%3A%0AWebsite%3A%0AType%20of%20projects%3A%0ACurrent%20engineering%20requirement%3A%0APreferred%20plan%3A%0A%0AI%20would%20like%20to%20discuss%20the%20paid%20pilot%20and%20next%20steps.",
+        "mailto:hello@harborlinesystems.ltd?subject=Software%20and%20AI%20project%20enquiry%20%7C%20Harborline%20Systems&body=Hello%20Harborline%20Systems%2C%0A%0AI%20am%20looking%20for%20help%20solving%20a%20business%20or%20technology%20problem.%0A%0ACompany%3A%0AWebsite%3A%0AWhat%20we%20are%20trying%20to%20achieve%3A%0AThe%20problem%20we%20are%20experiencing%3A%0APreferred%20timeline%3A%0A%0AI%20would%20like%20to%20discuss%20the%20best%20approach.",
+        "mailto:hello@harborlinesystems.ltd"
+      ],
+      "localLinks": [
+        "/",
+        "/agencies",
+        "/businesses",
+        "/services",
+        "/how-it-works"
+      ],
+      "visibleMenuButton": false
+    },
+    {
+      "device": "large-mobile",
+      "route": "/",
+      "screenshot": "large-mobile-home.jpg",
+      "title": "Harborline Systems | Working software, built for the work",
+      "description": "White label engineering for agencies. Practical software, AI and automation for businesses, backed by 7 years and counting.",
+      "canonical": "https://harborlinesystems.ltd/",
+      "h1Count": 1,
+      "h1": "We turn complex technology problems into working solutions.",
+      "viewportWidth": 390,
+      "documentWidth": 390,
+      "horizontalOverflow": 0,
+      "images": [
+        {
+          "source": "/images/designer-at-work.webp",
+          "alt": "A person working at a laptop on a design interface. Illustrative stock photography.",
+          "loaded": true,
+          "naturalWidth": 1800,
+          "renderedWidth": 340,
+          "renderedHeight": 227,
+          "loading": "eager"
+        }
+      ],
+      "emailLinks": [
+        "mailto:hello@harborlinesystems.ltd?subject=White%20label%20engineering%20partnership%20%7C%20Harborline%20Systems&body=Hello%20Harborline%20Systems%2C%0A%0AI%20am%20interested%20in%20exploring%20your%20white%20label%20engineering%20service.%0A%0AAgency%20name%3A%0AWebsite%3A%0AType%20of%20projects%3A%0ACurrent%20engineering%20requirement%3A%0APreferred%20plan%3A%0A%0AI%20would%20like%20to%20discuss%20the%20paid%20pilot%20and%20next%20steps.",
+        "mailto:hello@harborlinesystems.ltd?subject=White%20label%20engineering%20partnership%20%7C%20Harborline%20Systems&body=Hello%20Harborline%20Systems%2C%0A%0AI%20am%20interested%20in%20exploring%20your%20white%20label%20engineering%20service.%0A%0AAgency%20name%3A%0AWebsite%3A%0AType%20of%20projects%3A%0ACurrent%20engineering%20requirement%3A%0APreferred%20plan%3A%0A%0AI%20would%20like%20to%20discuss%20the%20paid%20pilot%20and%20next%20steps.",
+        "mailto:hello@harborlinesystems.ltd?subject=Software%20and%20AI%20project%20enquiry%20%7C%20Harborline%20Systems&body=Hello%20Harborline%20Systems%2C%0A%0AI%20am%20looking%20for%20help%20solving%20a%20business%20or%20technology%20problem.%0A%0ACompany%3A%0AWebsite%3A%0AWhat%20we%20are%20trying%20to%20achieve%3A%0AThe%20problem%20we%20are%20experiencing%3A%0APreferred%20timeline%3A%0A%0AI%20would%20like%20to%20discuss%20the%20best%20approach.",
+        "mailto:hello@harborlinesystems.ltd",
+        "mailto:hello@harborlinesystems.ltd?subject=White%20label%20engineering%20partnership%20%7C%20Harborline%20Systems&body=Hello%20Harborline%20Systems%2C%0A%0AI%20am%20interested%20in%20exploring%20your%20white%20label%20engineering%20service.%0A%0AAgency%20name%3A%0AWebsite%3A%0AType%20of%20projects%3A%0ACurrent%20engineering%20requirement%3A%0APreferred%20plan%3A%0A%0AI%20would%20like%20to%20discuss%20the%20paid%20pilot%20and%20next%20steps.",
+        "mailto:hello@harborlinesystems.ltd?subject=Software%20and%20AI%20project%20enquiry%20%7C%20Harborline%20Systems&body=Hello%20Harborline%20Systems%2C%0A%0AI%20am%20looking%20for%20help%20solving%20a%20business%20or%20technology%20problem.%0A%0ACompany%3A%0AWebsite%3A%0AWhat%20we%20are%20trying%20to%20achieve%3A%0AThe%20problem%20we%20are%20experiencing%3A%0APreferred%20timeline%3A%0A%0AI%20would%20like%20to%20discuss%20the%20best%20approach.",
+        "mailto:hello@harborlinesystems.ltd"
+      ],
+      "localLinks": [
+        "/",
+        "/agencies",
+        "/businesses",
+        "/services",
+        "/how-it-works"
+      ],
+      "visibleMenuButton": true
+    },
+    {
+      "device": "large-mobile",
+      "route": "/agencies",
+      "screenshot": "large-mobile-agencies.jpg",
+      "title": "Agency engineering capacity | Harborline Systems",
+      "description": "Confidential white label engineering for agencies. Start with a $750 paid pilot, or choose a Half seat or Full seat for ongoing delivery capacity.",
+      "canonical": "https://harborlinesystems.ltd/agencies",
+      "h1Count": 1,
+      "h1": "Your agency can take on more work. Without hiring another developer.",
+      "viewportWidth": 390,
+      "documentWidth": 390,
+      "horizontalOverflow": 0,
+      "images": [],
+      "emailLinks": [
+        "mailto:hello@harborlinesystems.ltd?subject=White%20label%20engineering%20partnership%20%7C%20Harborline%20Systems&body=Hello%20Harborline%20Systems%2C%0A%0AI%20am%20interested%20in%20exploring%20your%20white%20label%20engineering%20service.%0A%0AAgency%20name%3A%0AWebsite%3A%0AType%20of%20projects%3A%0ACurrent%20engineering%20requirement%3A%0APreferred%20plan%3A%0A%0AI%20would%20like%20to%20discuss%20the%20paid%20pilot%20and%20next%20steps.",
+        "mailto:hello@harborlinesystems.ltd?subject=White%20label%20engineering%20partnership%20%7C%20Harborline%20Systems&body=Hello%20Harborline%20Systems%2C%0A%0AI%20am%20interested%20in%20exploring%20your%20white%20label%20engineering%20service.%0A%0AAgency%20name%3A%0AWebsite%3A%0AType%20of%20projects%3A%0ACurrent%20engineering%20requirement%3A%0APreferred%20plan%3A%0A%0AI%20would%20like%20to%20discuss%20the%20paid%20pilot%20and%20next%20steps.",
+        "mailto:hello@harborlinesystems.ltd?subject=White%20label%20engineering%20partnership%20%7C%20Harborline%20Systems&body=Hello%20Harborline%20Systems%2C%0A%0AI%20am%20interested%20in%20exploring%20your%20white%20label%20engineering%20service.%0A%0AAgency%20name%3A%0AWebsite%3A%0AType%20of%20projects%3A%0ACurrent%20engineering%20requirement%3A%0APreferred%20plan%3A%0A%0AI%20would%20like%20to%20discuss%20the%20paid%20pilot%20and%20next%20steps.",
+        "mailto:hello@harborlinesystems.ltd?subject=White%20label%20engineering%20partnership%20%7C%20Harborline%20Systems&body=Hello%20Harborline%20Systems%2C%0A%0AI%20am%20interested%20in%20exploring%20your%20white%20label%20engineering%20service.%0A%0AAgency%20name%3A%0AWebsite%3A%0AType%20of%20projects%3A%0ACurrent%20engineering%20requirement%3A%0APreferred%20plan%3A%0A%0AI%20would%20like%20to%20discuss%20the%20paid%20pilot%20and%20next%20steps.",
+        "mailto:hello@harborlinesystems.ltd?subject=White%20label%20engineering%20partnership%20%7C%20Harborline%20Systems&body=Hello%20Harborline%20Systems%2C%0A%0AI%20am%20interested%20in%20exploring%20your%20white%20label%20engineering%20service.%0A%0AAgency%20name%3A%0AWebsite%3A%0AType%20of%20projects%3A%0ACurrent%20engineering%20requirement%3A%0APreferred%20plan%3A%0A%0AI%20would%20like%20to%20discuss%20the%20paid%20pilot%20and%20next%20steps.",
+        "mailto:hello@harborlinesystems.ltd?subject=White%20label%20engineering%20partnership%20%7C%20Harborline%20Systems&body=Hello%20Harborline%20Systems%2C%0A%0AI%20am%20interested%20in%20exploring%20your%20white%20label%20engineering%20service.%0A%0AAgency%20name%3A%0AWebsite%3A%0AType%20of%20projects%3A%0ACurrent%20engineering%20requirement%3A%0APreferred%20plan%3A%0A%0AI%20would%20like%20to%20discuss%20the%20paid%20pilot%20and%20next%20steps.",
+        "mailto:hello@harborlinesystems.ltd"
+      ],
+      "localLinks": [
+        "/",
+        "/agencies",
+        "/businesses",
+        "/services",
+        "/how-it-works"
+      ],
+      "visibleMenuButton": true
+    },
+    {
+      "device": "large-mobile",
+      "route": "/businesses",
+      "screenshot": "large-mobile-businesses.jpg",
+      "title": "Business software and automation | Harborline Systems",
+      "description": "Describe the operational problem. Harborline builds practical software, AI and automation. Start with an audit, a robot build or a written custom quote.",
+      "canonical": "https://harborlinesystems.ltd/businesses",
+      "h1Count": 1,
+      "h1": "Tell us what is slowing your business down. We will map the useful next step.",
+      "viewportWidth": 390,
+      "documentWidth": 390,
+      "horizontalOverflow": 0,
+      "images": [
+        {
+          "source": "/images/warehouse-conversation.webp",
+          "alt": "Two women in a warehouse aisle talking as they review work. Stock photography, not a Harborline client engagement.",
+          "loaded": true,
+          "naturalWidth": 1800,
+          "renderedWidth": 360,
+          "renderedHeight": 240,
+          "loading": "eager"
+        },
+        {
+          "source": "/images/warehouse-worker.webp",
+          "alt": "A warehouse worker moving goods with a pallet jack beneath high shelves. Illustrative stock photography, not a Harborline client engagement.",
+          "loaded": true,
+          "naturalWidth": 1800,
+          "renderedWidth": 360,
+          "renderedHeight": 240,
+          "loading": "eager"
+        }
+      ],
+      "emailLinks": [
+        "mailto:hello@harborlinesystems.ltd?subject=White%20label%20engineering%20partnership%20%7C%20Harborline%20Systems&body=Hello%20Harborline%20Systems%2C%0A%0AI%20am%20interested%20in%20exploring%20your%20white%20label%20engineering%20service.%0A%0AAgency%20name%3A%0AWebsite%3A%0AType%20of%20projects%3A%0ACurrent%20engineering%20requirement%3A%0APreferred%20plan%3A%0A%0AI%20would%20like%20to%20discuss%20the%20paid%20pilot%20and%20next%20steps.",
+        "mailto:hello@harborlinesystems.ltd?subject=Software%20and%20AI%20project%20enquiry%20%7C%20Harborline%20Systems&body=Hello%20Harborline%20Systems%2C%0A%0AI%20am%20looking%20for%20help%20solving%20a%20business%20or%20technology%20problem.%0A%0ACompany%3A%0AWebsite%3A%0AWhat%20we%20are%20trying%20to%20achieve%3A%0AThe%20problem%20we%20are%20experiencing%3A%0APreferred%20timeline%3A%0A%0AI%20would%20like%20to%20discuss%20the%20best%20approach.",
+        "mailto:hello@harborlinesystems.ltd?subject=Software%20and%20AI%20project%20enquiry%20%7C%20Harborline%20Systems&body=Hello%20Harborline%20Systems%2C%0A%0AI%20am%20looking%20for%20help%20solving%20a%20business%20or%20technology%20problem.%0A%0ACompany%3A%0AWebsite%3A%0AWhat%20we%20are%20trying%20to%20achieve%3A%0AThe%20problem%20we%20are%20experiencing%3A%0APreferred%20timeline%3A%0A%0AI%20would%20like%20to%20discuss%20the%20best%20approach.",
+        "mailto:hello@harborlinesystems.ltd?subject=Software%20and%20AI%20project%20enquiry%20%7C%20Harborline%20Systems&body=Hello%20Harborline%20Systems%2C%0A%0AI%20am%20looking%20for%20help%20solving%20a%20business%20or%20technology%20problem.%0A%0ACompany%3A%0AWebsite%3A%0AWhat%20we%20are%20trying%20to%20achieve%3A%0AThe%20problem%20we%20are%20experiencing%3A%0APreferred%20timeline%3A%0A%0AI%20would%20like%20to%20discuss%20the%20best%20approach.",
+        "mailto:hello@harborlinesystems.ltd?subject=Software%20and%20AI%20project%20enquiry%20%7C%20Harborline%20Systems&body=Hello%20Harborline%20Systems%2C%0A%0AI%20am%20looking%20for%20help%20solving%20a%20business%20or%20technology%20problem.%0A%0ACompany%3A%0AWebsite%3A%0AWhat%20we%20are%20trying%20to%20achieve%3A%0AThe%20problem%20we%20are%20experiencing%3A%0APreferred%20timeline%3A%0A%0AI%20would%20like%20to%20discuss%20the%20best%20approach.",
+        "mailto:hello@harborlinesystems.ltd?subject=Software%20and%20AI%20project%20enquiry%20%7C%20Harborline%20Systems&body=Hello%20Harborline%20Systems%2C%0A%0AI%20am%20looking%20for%20help%20solving%20a%20business%20or%20technology%20problem.%0A%0ACompany%3A%0AWebsite%3A%0AWhat%20we%20are%20trying%20to%20achieve%3A%0AThe%20problem%20we%20are%20experiencing%3A%0APreferred%20timeline%3A%0A%0AI%20would%20like%20to%20discuss%20the%20best%20approach.",
+        "mailto:hello@harborlinesystems.ltd?subject=Software%20and%20AI%20project%20enquiry%20%7C%20Harborline%20Systems&body=Hello%20Harborline%20Systems%2C%0A%0AI%20am%20looking%20for%20help%20solving%20a%20business%20or%20technology%20problem.%0A%0ACompany%3A%0AWebsite%3A%0AWhat%20we%20are%20trying%20to%20achieve%3A%0AThe%20problem%20we%20are%20experiencing%3A%0APreferred%20timeline%3A%0A%0AI%20would%20like%20to%20discuss%20the%20best%20approach.",
+        "mailto:hello@harborlinesystems.ltd"
+      ],
+      "localLinks": [
+        "/",
+        "/agencies",
+        "/businesses",
+        "/services",
+        "/how-it-works"
+      ],
+      "visibleMenuButton": true
+    },
+    {
+      "device": "large-mobile",
+      "route": "/services",
+      "screenshot": "large-mobile-services.jpg",
+      "title": "Software and AI engineering services | Harborline Systems",
+      "description": "Explore Harborline Systems capabilities in software, AI, automation, integrations, applications, backend infrastructure and engineering support.",
+      "canonical": "https://harborlinesystems.ltd/services",
+      "h1Count": 1,
+      "h1": "Engineering shaped around the outcome.",
+      "viewportWidth": 390,
+      "documentWidth": 390,
+      "horizontalOverflow": 0,
+      "images": [],
+      "emailLinks": [
+        "mailto:hello@harborlinesystems.ltd?subject=White%20label%20engineering%20partnership%20%7C%20Harborline%20Systems&body=Hello%20Harborline%20Systems%2C%0A%0AI%20am%20interested%20in%20exploring%20your%20white%20label%20engineering%20service.%0A%0AAgency%20name%3A%0AWebsite%3A%0AType%20of%20projects%3A%0ACurrent%20engineering%20requirement%3A%0APreferred%20plan%3A%0A%0AI%20would%20like%20to%20discuss%20the%20paid%20pilot%20and%20next%20steps.",
+        "mailto:hello@harborlinesystems.ltd?subject=Software%20and%20AI%20project%20enquiry%20%7C%20Harborline%20Systems&body=Hello%20Harborline%20Systems%2C%0A%0AI%20am%20looking%20for%20help%20solving%20a%20business%20or%20technology%20problem.%0A%0ACompany%3A%0AWebsite%3A%0AWhat%20we%20are%20trying%20to%20achieve%3A%0AThe%20problem%20we%20are%20experiencing%3A%0APreferred%20timeline%3A%0A%0AI%20would%20like%20to%20discuss%20the%20best%20approach.",
+        "mailto:hello@harborlinesystems.ltd"
+      ],
+      "localLinks": [
+        "/",
+        "/agencies",
+        "/businesses",
+        "/services",
+        "/how-it-works"
+      ],
+      "visibleMenuButton": true
+    },
+    {
+      "device": "large-mobile",
+      "route": "/how-it-works",
+      "screenshot": "large-mobile-how-it-works.jpg",
+      "title": "How projects work with Harborline | Harborline Systems",
+      "description": "A clear path from problem to written scope, engineering and handover. See how to start an agency partnership or a direct business project.",
+      "canonical": "https://harborlinesystems.ltd/how-it-works",
+      "h1Count": 1,
+      "h1": "Clear from the first conversation.",
+      "viewportWidth": 390,
+      "documentWidth": 390,
+      "horizontalOverflow": 0,
+      "images": [],
+      "emailLinks": [
+        "mailto:hello@harborlinesystems.ltd?subject=White%20label%20engineering%20partnership%20%7C%20Harborline%20Systems&body=Hello%20Harborline%20Systems%2C%0A%0AI%20am%20interested%20in%20exploring%20your%20white%20label%20engineering%20service.%0A%0AAgency%20name%3A%0AWebsite%3A%0AType%20of%20projects%3A%0ACurrent%20engineering%20requirement%3A%0APreferred%20plan%3A%0A%0AI%20would%20like%20to%20discuss%20the%20paid%20pilot%20and%20next%20steps.",
+        "mailto:hello@harborlinesystems.ltd?subject=White%20label%20engineering%20partnership%20%7C%20Harborline%20Systems&body=Hello%20Harborline%20Systems%2C%0A%0AI%20am%20interested%20in%20exploring%20your%20white%20label%20engineering%20service.%0A%0AAgency%20name%3A%0AWebsite%3A%0AType%20of%20projects%3A%0ACurrent%20engineering%20requirement%3A%0APreferred%20plan%3A%0A%0AI%20would%20like%20to%20discuss%20the%20paid%20pilot%20and%20next%20steps.",
+        "mailto:hello@harborlinesystems.ltd?subject=Software%20and%20AI%20project%20enquiry%20%7C%20Harborline%20Systems&body=Hello%20Harborline%20Systems%2C%0A%0AI%20am%20looking%20for%20help%20solving%20a%20business%20or%20technology%20problem.%0A%0ACompany%3A%0AWebsite%3A%0AWhat%20we%20are%20trying%20to%20achieve%3A%0AThe%20problem%20we%20are%20experiencing%3A%0APreferred%20timeline%3A%0A%0AI%20would%20like%20to%20discuss%20the%20best%20approach.",
+        "mailto:hello@harborlinesystems.ltd?subject=White%20label%20engineering%20partnership%20%7C%20Harborline%20Systems&body=Hello%20Harborline%20Systems%2C%0A%0AI%20am%20interested%20in%20exploring%20your%20white%20label%20engineering%20service.%0A%0AAgency%20name%3A%0AWebsite%3A%0AType%20of%20projects%3A%0ACurrent%20engineering%20requirement%3A%0APreferred%20plan%3A%0A%0AI%20would%20like%20to%20discuss%20the%20paid%20pilot%20and%20next%20steps.",
+        "mailto:hello@harborlinesystems.ltd?subject=Software%20and%20AI%20project%20enquiry%20%7C%20Harborline%20Systems&body=Hello%20Harborline%20Systems%2C%0A%0AI%20am%20looking%20for%20help%20solving%20a%20business%20or%20technology%20problem.%0A%0ACompany%3A%0AWebsite%3A%0AWhat%20we%20are%20trying%20to%20achieve%3A%0AThe%20problem%20we%20are%20experiencing%3A%0APreferred%20timeline%3A%0A%0AI%20would%20like%20to%20discuss%20the%20best%20approach.",
+        "mailto:hello@harborlinesystems.ltd"
+      ],
+      "localLinks": [
+        "/",
+        "/agencies",
+        "/businesses",
+        "/services",
+        "/how-it-works"
+      ],
+      "visibleMenuButton": true
+    },
+    {
+      "device": "small-mobile",
+      "route": "/",
+      "screenshot": null,
+      "title": "Harborline Systems | Working software, built for the work",
+      "description": "White label engineering for agencies. Practical software, AI and automation for businesses, backed by 7 years and counting.",
+      "canonical": "https://harborlinesystems.ltd/",
+      "h1Count": 1,
+      "h1": "We turn complex technology problems into working solutions.",
+      "viewportWidth": 320,
+      "documentWidth": 320,
+      "horizontalOverflow": 0,
+      "images": [
+        {
+          "source": "/images/designer-at-work.webp",
+          "alt": "A person working at a laptop on a design interface. Illustrative stock photography.",
+          "loaded": true,
+          "naturalWidth": 1800,
+          "renderedWidth": 270,
+          "renderedHeight": 180,
+          "loading": "eager"
+        }
+      ],
+      "emailLinks": [
+        "mailto:hello@harborlinesystems.ltd?subject=White%20label%20engineering%20partnership%20%7C%20Harborline%20Systems&body=Hello%20Harborline%20Systems%2C%0A%0AI%20am%20interested%20in%20exploring%20your%20white%20label%20engineering%20service.%0A%0AAgency%20name%3A%0AWebsite%3A%0AType%20of%20projects%3A%0ACurrent%20engineering%20requirement%3A%0APreferred%20plan%3A%0A%0AI%20would%20like%20to%20discuss%20the%20paid%20pilot%20and%20next%20steps.",
+        "mailto:hello@harborlinesystems.ltd?subject=White%20label%20engineering%20partnership%20%7C%20Harborline%20Systems&body=Hello%20Harborline%20Systems%2C%0A%0AI%20am%20interested%20in%20exploring%20your%20white%20label%20engineering%20service.%0A%0AAgency%20name%3A%0AWebsite%3A%0AType%20of%20projects%3A%0ACurrent%20engineering%20requirement%3A%0APreferred%20plan%3A%0A%0AI%20would%20like%20to%20discuss%20the%20paid%20pilot%20and%20next%20steps.",
+        "mailto:hello@harborlinesystems.ltd?subject=Software%20and%20AI%20project%20enquiry%20%7C%20Harborline%20Systems&body=Hello%20Harborline%20Systems%2C%0A%0AI%20am%20looking%20for%20help%20solving%20a%20business%20or%20technology%20problem.%0A%0ACompany%3A%0AWebsite%3A%0AWhat%20we%20are%20trying%20to%20achieve%3A%0AThe%20problem%20we%20are%20experiencing%3A%0APreferred%20timeline%3A%0A%0AI%20would%20like%20to%20discuss%20the%20best%20approach.",
+        "mailto:hello@harborlinesystems.ltd",
+        "mailto:hello@harborlinesystems.ltd?subject=White%20label%20engineering%20partnership%20%7C%20Harborline%20Systems&body=Hello%20Harborline%20Systems%2C%0A%0AI%20am%20interested%20in%20exploring%20your%20white%20label%20engineering%20service.%0A%0AAgency%20name%3A%0AWebsite%3A%0AType%20of%20projects%3A%0ACurrent%20engineering%20requirement%3A%0APreferred%20plan%3A%0A%0AI%20would%20like%20to%20discuss%20the%20paid%20pilot%20and%20next%20steps.",
+        "mailto:hello@harborlinesystems.ltd?subject=Software%20and%20AI%20project%20enquiry%20%7C%20Harborline%20Systems&body=Hello%20Harborline%20Systems%2C%0A%0AI%20am%20looking%20for%20help%20solving%20a%20business%20or%20technology%20problem.%0A%0ACompany%3A%0AWebsite%3A%0AWhat%20we%20are%20trying%20to%20achieve%3A%0AThe%20problem%20we%20are%20experiencing%3A%0APreferred%20timeline%3A%0A%0AI%20would%20like%20to%20discuss%20the%20best%20approach.",
+        "mailto:hello@harborlinesystems.ltd"
+      ],
+      "localLinks": [
+        "/",
+        "/agencies",
+        "/businesses",
+        "/services",
+        "/how-it-works"
+      ],
+      "visibleMenuButton": true
+    },
+    {
+      "device": "small-mobile",
+      "route": "/agencies",
+      "screenshot": null,
+      "title": "Agency engineering capacity | Harborline Systems",
+      "description": "Confidential white label engineering for agencies. Start with a $750 paid pilot, or choose a Half seat or Full seat for ongoing delivery capacity.",
+      "canonical": "https://harborlinesystems.ltd/agencies",
+      "h1Count": 1,
+      "h1": "Your agency can take on more work. Without hiring another developer.",
+      "viewportWidth": 320,
+      "documentWidth": 320,
+      "horizontalOverflow": 0,
+      "images": [],
+      "emailLinks": [
+        "mailto:hello@harborlinesystems.ltd?subject=White%20label%20engineering%20partnership%20%7C%20Harborline%20Systems&body=Hello%20Harborline%20Systems%2C%0A%0AI%20am%20interested%20in%20exploring%20your%20white%20label%20engineering%20service.%0A%0AAgency%20name%3A%0AWebsite%3A%0AType%20of%20projects%3A%0ACurrent%20engineering%20requirement%3A%0APreferred%20plan%3A%0A%0AI%20would%20like%20to%20discuss%20the%20paid%20pilot%20and%20next%20steps.",
+        "mailto:hello@harborlinesystems.ltd?subject=White%20label%20engineering%20partnership%20%7C%20Harborline%20Systems&body=Hello%20Harborline%20Systems%2C%0A%0AI%20am%20interested%20in%20exploring%20your%20white%20label%20engineering%20service.%0A%0AAgency%20name%3A%0AWebsite%3A%0AType%20of%20projects%3A%0ACurrent%20engineering%20requirement%3A%0APreferred%20plan%3A%0A%0AI%20would%20like%20to%20discuss%20the%20paid%20pilot%20and%20next%20steps.",
+        "mailto:hello@harborlinesystems.ltd?subject=White%20label%20engineering%20partnership%20%7C%20Harborline%20Systems&body=Hello%20Harborline%20Systems%2C%0A%0AI%20am%20interested%20in%20exploring%20your%20white%20label%20engineering%20service.%0A%0AAgency%20name%3A%0AWebsite%3A%0AType%20of%20projects%3A%0ACurrent%20engineering%20requirement%3A%0APreferred%20plan%3A%0A%0AI%20would%20like%20to%20discuss%20the%20paid%20pilot%20and%20next%20steps.",
+        "mailto:hello@harborlinesystems.ltd?subject=White%20label%20engineering%20partnership%20%7C%20Harborline%20Systems&body=Hello%20Harborline%20Systems%2C%0A%0AI%20am%20interested%20in%20exploring%20your%20white%20label%20engineering%20service.%0A%0AAgency%20name%3A%0AWebsite%3A%0AType%20of%20projects%3A%0ACurrent%20engineering%20requirement%3A%0APreferred%20plan%3A%0A%0AI%20would%20like%20to%20discuss%20the%20paid%20pilot%20and%20next%20steps.",
+        "mailto:hello@harborlinesystems.ltd?subject=White%20label%20engineering%20partnership%20%7C%20Harborline%20Systems&body=Hello%20Harborline%20Systems%2C%0A%0AI%20am%20interested%20in%20exploring%20your%20white%20label%20engineering%20service.%0A%0AAgency%20name%3A%0AWebsite%3A%0AType%20of%20projects%3A%0ACurrent%20engineering%20requirement%3A%0APreferred%20plan%3A%0A%0AI%20would%20like%20to%20discuss%20the%20paid%20pilot%20and%20next%20steps.",
+        "mailto:hello@harborlinesystems.ltd?subject=White%20label%20engineering%20partnership%20%7C%20Harborline%20Systems&body=Hello%20Harborline%20Systems%2C%0A%0AI%20am%20interested%20in%20exploring%20your%20white%20label%20engineering%20service.%0A%0AAgency%20name%3A%0AWebsite%3A%0AType%20of%20projects%3A%0ACurrent%20engineering%20requirement%3A%0APreferred%20plan%3A%0A%0AI%20would%20like%20to%20discuss%20the%20paid%20pilot%20and%20next%20steps.",
+        "mailto:hello@harborlinesystems.ltd"
+      ],
+      "localLinks": [
+        "/",
+        "/agencies",
+        "/businesses",
+        "/services",
+        "/how-it-works"
+      ],
+      "visibleMenuButton": true
+    },
+    {
+      "device": "small-mobile",
+      "route": "/businesses",
+      "screenshot": null,
+      "title": "Business software and automation | Harborline Systems",
+      "description": "Describe the operational problem. Harborline builds practical software, AI and automation. Start with an audit, a robot build or a written custom quote.",
+      "canonical": "https://harborlinesystems.ltd/businesses",
+      "h1Count": 1,
+      "h1": "Tell us what is slowing your business down. We will map the useful next step.",
+      "viewportWidth": 320,
+      "documentWidth": 320,
+      "horizontalOverflow": 0,
+      "images": [
+        {
+          "source": "/images/warehouse-conversation.webp",
+          "alt": "Two women in a warehouse aisle talking as they review work. Stock photography, not a Harborline client engagement.",
+          "loaded": true,
+          "naturalWidth": 1800,
+          "renderedWidth": 290,
+          "renderedHeight": 193,
+          "loading": "eager"
+        },
+        {
+          "source": "/images/warehouse-worker.webp",
+          "alt": "A warehouse worker moving goods with a pallet jack beneath high shelves. Illustrative stock photography, not a Harborline client engagement.",
+          "loaded": true,
+          "naturalWidth": 1800,
+          "renderedWidth": 290,
+          "renderedHeight": 193,
+          "loading": "eager"
+        }
+      ],
+      "emailLinks": [
+        "mailto:hello@harborlinesystems.ltd?subject=White%20label%20engineering%20partnership%20%7C%20Harborline%20Systems&body=Hello%20Harborline%20Systems%2C%0A%0AI%20am%20interested%20in%20exploring%20your%20white%20label%20engineering%20service.%0A%0AAgency%20name%3A%0AWebsite%3A%0AType%20of%20projects%3A%0ACurrent%20engineering%20requirement%3A%0APreferred%20plan%3A%0A%0AI%20would%20like%20to%20discuss%20the%20paid%20pilot%20and%20next%20steps.",
+        "mailto:hello@harborlinesystems.ltd?subject=Software%20and%20AI%20project%20enquiry%20%7C%20Harborline%20Systems&body=Hello%20Harborline%20Systems%2C%0A%0AI%20am%20looking%20for%20help%20solving%20a%20business%20or%20technology%20problem.%0A%0ACompany%3A%0AWebsite%3A%0AWhat%20we%20are%20trying%20to%20achieve%3A%0AThe%20problem%20we%20are%20experiencing%3A%0APreferred%20timeline%3A%0A%0AI%20would%20like%20to%20discuss%20the%20best%20approach.",
+        "mailto:hello@harborlinesystems.ltd?subject=Software%20and%20AI%20project%20enquiry%20%7C%20Harborline%20Systems&body=Hello%20Harborline%20Systems%2C%0A%0AI%20am%20looking%20for%20help%20solving%20a%20business%20or%20technology%20problem.%0A%0ACompany%3A%0AWebsite%3A%0AWhat%20we%20are%20trying%20to%20achieve%3A%0AThe%20problem%20we%20are%20experiencing%3A%0APreferred%20timeline%3A%0A%0AI%20would%20like%20to%20discuss%20the%20best%20approach.",
+        "mailto:hello@harborlinesystems.ltd?subject=Software%20and%20AI%20project%20enquiry%20%7C%20Harborline%20Systems&body=Hello%20Harborline%20Systems%2C%0A%0AI%20am%20looking%20for%20help%20solving%20a%20business%20or%20technology%20problem.%0A%0ACompany%3A%0AWebsite%3A%0AWhat%20we%20are%20trying%20to%20achieve%3A%0AThe%20problem%20we%20are%20experiencing%3A%0APreferred%20timeline%3A%0A%0AI%20would%20like%20to%20discuss%20the%20best%20approach.",
+        "mailto:hello@harborlinesystems.ltd?subject=Software%20and%20AI%20project%20enquiry%20%7C%20Harborline%20Systems&body=Hello%20Harborline%20Systems%2C%0A%0AI%20am%20looking%20for%20help%20solving%20a%20business%20or%20technology%20problem.%0A%0ACompany%3A%0AWebsite%3A%0AWhat%20we%20are%20trying%20to%20achieve%3A%0AThe%20problem%20we%20are%20experiencing%3A%0APreferred%20timeline%3A%0A%0AI%20would%20like%20to%20discuss%20the%20best%20approach.",
+        "mailto:hello@harborlinesystems.ltd?subject=Software%20and%20AI%20project%20enquiry%20%7C%20Harborline%20Systems&body=Hello%20Harborline%20Systems%2C%0A%0AI%20am%20looking%20for%20help%20solving%20a%20business%20or%20technology%20problem.%0A%0ACompany%3A%0AWebsite%3A%0AWhat%20we%20are%20trying%20to%20achieve%3A%0AThe%20problem%20we%20are%20experiencing%3A%0APreferred%20timeline%3A%0A%0AI%20would%20like%20to%20discuss%20the%20best%20approach.",
+        "mailto:hello@harborlinesystems.ltd?subject=Software%20and%20AI%20project%20enquiry%20%7C%20Harborline%20Systems&body=Hello%20Harborline%20Systems%2C%0A%0AI%20am%20looking%20for%20help%20solving%20a%20business%20or%20technology%20problem.%0A%0ACompany%3A%0AWebsite%3A%0AWhat%20we%20are%20trying%20to%20achieve%3A%0AThe%20problem%20we%20are%20experiencing%3A%0APreferred%20timeline%3A%0A%0AI%20would%20like%20to%20discuss%20the%20best%20approach.",
+        "mailto:hello@harborlinesystems.ltd"
+      ],
+      "localLinks": [
+        "/",
+        "/agencies",
+        "/businesses",
+        "/services",
+        "/how-it-works"
+      ],
+      "visibleMenuButton": true
+    },
+    {
+      "device": "small-mobile",
+      "route": "/services",
+      "screenshot": null,
+      "title": "Software and AI engineering services | Harborline Systems",
+      "description": "Explore Harborline Systems capabilities in software, AI, automation, integrations, applications, backend infrastructure and engineering support.",
+      "canonical": "https://harborlinesystems.ltd/services",
+      "h1Count": 1,
+      "h1": "Engineering shaped around the outcome.",
+      "viewportWidth": 320,
+      "documentWidth": 320,
+      "horizontalOverflow": 0,
+      "images": [],
+      "emailLinks": [
+        "mailto:hello@harborlinesystems.ltd?subject=White%20label%20engineering%20partnership%20%7C%20Harborline%20Systems&body=Hello%20Harborline%20Systems%2C%0A%0AI%20am%20interested%20in%20exploring%20your%20white%20label%20engineering%20service.%0A%0AAgency%20name%3A%0AWebsite%3A%0AType%20of%20projects%3A%0ACurrent%20engineering%20requirement%3A%0APreferred%20plan%3A%0A%0AI%20would%20like%20to%20discuss%20the%20paid%20pilot%20and%20next%20steps.",
+        "mailto:hello@harborlinesystems.ltd?subject=Software%20and%20AI%20project%20enquiry%20%7C%20Harborline%20Systems&body=Hello%20Harborline%20Systems%2C%0A%0AI%20am%20looking%20for%20help%20solving%20a%20business%20or%20technology%20problem.%0A%0ACompany%3A%0AWebsite%3A%0AWhat%20we%20are%20trying%20to%20achieve%3A%0AThe%20problem%20we%20are%20experiencing%3A%0APreferred%20timeline%3A%0A%0AI%20would%20like%20to%20discuss%20the%20best%20approach.",
+        "mailto:hello@harborlinesystems.ltd"
+      ],
+      "localLinks": [
+        "/",
+        "/agencies",
+        "/businesses",
+        "/services",
+        "/how-it-works"
+      ],
+      "visibleMenuButton": true
+    },
+    {
+      "device": "small-mobile",
+      "route": "/how-it-works",
+      "screenshot": null,
+      "title": "How projects work with Harborline | Harborline Systems",
+      "description": "A clear path from problem to written scope, engineering and handover. See how to start an agency partnership or a direct business project.",
+      "canonical": "https://harborlinesystems.ltd/how-it-works",
+      "h1Count": 1,
+      "h1": "Clear from the first conversation.",
+      "viewportWidth": 320,
+      "documentWidth": 320,
+      "horizontalOverflow": 0,
+      "images": [],
+      "emailLinks": [
+        "mailto:hello@harborlinesystems.ltd?subject=White%20label%20engineering%20partnership%20%7C%20Harborline%20Systems&body=Hello%20Harborline%20Systems%2C%0A%0AI%20am%20interested%20in%20exploring%20your%20white%20label%20engineering%20service.%0A%0AAgency%20name%3A%0AWebsite%3A%0AType%20of%20projects%3A%0ACurrent%20engineering%20requirement%3A%0APreferred%20plan%3A%0A%0AI%20would%20like%20to%20discuss%20the%20paid%20pilot%20and%20next%20steps.",
+        "mailto:hello@harborlinesystems.ltd?subject=White%20label%20engineering%20partnership%20%7C%20Harborline%20Systems&body=Hello%20Harborline%20Systems%2C%0A%0AI%20am%20interested%20in%20exploring%20your%20white%20label%20engineering%20service.%0A%0AAgency%20name%3A%0AWebsite%3A%0AType%20of%20projects%3A%0ACurrent%20engineering%20requirement%3A%0APreferred%20plan%3A%0A%0AI%20would%20like%20to%20discuss%20the%20paid%20pilot%20and%20next%20steps.",
+        "mailto:hello@harborlinesystems.ltd?subject=Software%20and%20AI%20project%20enquiry%20%7C%20Harborline%20Systems&body=Hello%20Harborline%20Systems%2C%0A%0AI%20am%20looking%20for%20help%20solving%20a%20business%20or%20technology%20problem.%0A%0ACompany%3A%0AWebsite%3A%0AWhat%20we%20are%20trying%20to%20achieve%3A%0AThe%20problem%20we%20are%20experiencing%3A%0APreferred%20timeline%3A%0A%0AI%20would%20like%20to%20discuss%20the%20best%20approach.",
+        "mailto:hello@harborlinesystems.ltd?subject=White%20label%20engineering%20partnership%20%7C%20Harborline%20Systems&body=Hello%20Harborline%20Systems%2C%0A%0AI%20am%20interested%20in%20exploring%20your%20white%20label%20engineering%20service.%0A%0AAgency%20name%3A%0AWebsite%3A%0AType%20of%20projects%3A%0ACurrent%20engineering%20requirement%3A%0APreferred%20plan%3A%0A%0AI%20would%20like%20to%20discuss%20the%20paid%20pilot%20and%20next%20steps.",
+        "mailto:hello@harborlinesystems.ltd?subject=Software%20and%20AI%20project%20enquiry%20%7C%20Harborline%20Systems&body=Hello%20Harborline%20Systems%2C%0A%0AI%20am%20looking%20for%20help%20solving%20a%20business%20or%20technology%20problem.%0A%0ACompany%3A%0AWebsite%3A%0AWhat%20we%20are%20trying%20to%20achieve%3A%0AThe%20problem%20we%20are%20experiencing%3A%0APreferred%20timeline%3A%0A%0AI%20would%20like%20to%20discuss%20the%20best%20approach.",
+        "mailto:hello@harborlinesystems.ltd"
+      ],
+      "localLinks": [
+        "/",
+        "/agencies",
+        "/businesses",
+        "/services",
+        "/how-it-works"
+      ],
+      "visibleMenuButton": true
+    }
+  ],
+  "consoleErrors": [],
+  "appPageErrors": [],
+  "failures": []
+}
