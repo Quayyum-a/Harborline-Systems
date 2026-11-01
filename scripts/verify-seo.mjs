@@ -91,7 +91,7 @@ for (const url of locs) {
 }
 
 console.log('Assets');
-for (const file of ['og-image.png', 'logo.png', 'favicon.svg', 'llms.txt']) check(await exists(path.join(dist, file)), `${file} is published`);
+for (const file of ['og-image.png', 'logo.png', 'favicon.ico', 'favicon-192.png', 'apple-touch-icon.png', 'llms.txt']) check(await exists(path.join(dist, file)), `${file} is published`);
 
 console.log(failures ? `\n${failures} check(s) failed` : '\nAll SEO checks passed');
 process.exit(failures ? 1 : 0);

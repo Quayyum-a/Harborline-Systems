@@ -86,7 +86,10 @@ ${route === '/' ? '  <meta name="msvalidate.01" content="8BC99A1F41780B26A06BFAC
   <meta name="robots" content="index, follow, max-image-preview:large">
   <meta name="keywords" content="software engineering, white label engineering, AI automation, business software, Lagos Nigeria">
   <link rel="canonical" href="${esc(canonical)}">
-  <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+  <link rel="icon" href="/favicon.ico" sizes="48x48">
+  <link rel="icon" href="/favicon-192.png" type="image/png" sizes="192x192">
+  <link rel="apple-touch-icon" href="/apple-touch-icon.png">
+  <meta name="application-name" content="${BRAND}">
   <link rel="stylesheet" href="/src/styles.css">
   <meta property="og:type" content="${guide ? 'article' : 'website'}">
   <meta property="og:site_name" content="${BRAND}">
