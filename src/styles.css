@@ -389,3 +389,18 @@ a:hover > .link-arrow { transform: translate(2px, -2px); }
   html { scroll-behavior: auto; }
   *, *::before, *::after { scroll-behavior: auto !important; transition-duration: .01ms !important; animation-duration: .01ms !important; animation-iteration-count: 1 !important; }
 }
+
+/* Search and reading pages: About and guides */
+.breadcrumb { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 28px; color: var(--muted); font-size: 12px; }
+.breadcrumb a { color: var(--sea); text-decoration: underline; text-underline-offset: 3px; }
+.article { padding-block: 24px 96px; }
+.article-body { max-width: 760px; }
+.article-body h2 { margin: 56px 0 16px; font-size: clamp(30px, 3.4vw, 40px); line-height: 1.12; }
+.article-body h2:first-child { margin-top: 0; }
+.article-body p, .article-body li { color: var(--ink-soft); font-size: 17px; line-height: 1.7; }
+.article-body ul { margin: 0 0 20px; padding-left: 1.2em; }
+.article-body li { margin-bottom: 8px; }
+.article-body a { color: var(--sea); text-decoration: underline; text-underline-offset: 3px; }
+.article-body .faq-list { margin-top: 12px; }
+.article-meta { margin-top: 48px; color: var(--muted); font-size: 13px; }
+.article-meta .text-link { margin-left: 6px; }

@@ -1,3 +1,8 @@
+export const SITE = 'https://harborlinesystems.ltd';
+export const BRAND = 'Harborline Systems';
+// Legal company name. Confirm the CAC certificate has been issued before deploying this name publicly.
+export const LEGAL_NAME = 'Harborline Systems Limited';
+export const GITHUB_URL = 'https://github.com/Quayyum-a/Harborline-Systems';
 export const EMAIL = 'hello@harborlinesystems.ltd';
 
 const mailto = (subject: string, body: string) => `mailto:${EMAIL}?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
@@ -70,9 +75,96 @@ export const processStages = [
 ] as const;
 
 export const metadata: Record<string, { title: string; description: string }> = {
-  '/': { title: 'Harborline Systems | Working software, built for the work', description: 'White label engineering for agencies. Practical software, AI and automation for businesses, backed by 7 years and counting.' },
+  '/': { title: 'Harborline Systems | Software and AI Engineering Company', description: 'Harborline Systems is a software and AI engineering company in Lagos, Nigeria. White label engineering for agencies. Practical software, AI and automation for businesses.' },
   '/agencies': { title: 'Agency engineering capacity | Harborline Systems', description: 'Confidential white label engineering for agencies. Start with a $750 paid pilot, or choose a Half seat or Full seat for ongoing delivery capacity.' },
   '/businesses': { title: 'Business software and automation | Harborline Systems', description: 'Describe the operational problem. Harborline builds practical software, AI and automation. Start with an audit, a robot build or a written custom quote.' },
   '/services': { title: 'Software and AI engineering services | Harborline Systems', description: 'Explore Harborline Systems capabilities in software, AI, automation, integrations, applications, backend infrastructure and engineering support.' },
   '/how-it-works': { title: 'How projects work with Harborline | Harborline Systems', description: 'A clear path from problem to written scope, engineering and handover. See how to start an agency partnership or a direct business project.' },
+  '/about': { title: 'About Harborline Systems | Software and AI engineering company', description: 'Harborline Systems Limited is a software and AI engineering company in Lagos, Nigeria. Learn who it works with, how it works and the problems it helps solve.' },
+  '/guides/white-label-software-development': { title: 'White label software development explained | Harborline Systems', description: 'What white label software development means, why agencies use it, what to agree before work starts and when it is not the right fit.' },
+  '/guides/choosing-a-software-development-partner': { title: 'How to choose a software development partner | Harborline Systems', description: 'A practical checklist for choosing a software development partner: define the problem, check evidence, compare scopes, plan communication and handover.' },
 };
+
+export const routes = ['/', '/agencies', '/businesses', '/services', '/how-it-works', '/about', '/guides/white-label-software-development', '/guides/choosing-a-software-development-partner'] as const;
+
+export const knowsAbout = ['Software engineering', 'White label software development', 'Custom software development', 'Web application development', 'Mobile application development', 'Backend engineering', 'AI engineering', 'Business process automation', 'API development and integrations', 'Engineering support and maintenance'];
+
+export const aboutProblems = [
+  ['Manual work repeats each day.', 'Automate handoffs, notifications and updates.'],
+  ['Tools do not communicate.', 'Connect systems with APIs and practical integrations.'],
+  ['A product needs another capability.', 'Build a useful web or mobile experience, or an AI feature.'],
+  ['Existing software needs attention.', 'Audit, fix, maintain or modernize the codebase.'],
+] as const;
+
+export type GuideSection = { heading: string; paragraphs?: readonly string[]; list?: readonly string[]; after?: string };
+export type Guide = { path: string; title: string; eyebrow: string; h1: string; lede: string; published: string; sections: readonly GuideSection[]; faqs: readonly (readonly [string, string])[] };
+
+export const guides: readonly Guide[] = [
+  {
+    path: '/guides/white-label-software-development',
+    title: 'White label software development explained',
+    eyebrow: 'Guide for agencies',
+    h1: 'White label software development, <em>explained for agencies.</em>',
+    lede: 'White label software development means one company does the engineering work and another delivers it to its own client under its own name. This guide covers how the model works, what to agree before you start, and when it fits.',
+    published: '2026-11-01',
+    sections: [
+      { heading: 'What white label development means', paragraphs: [
+        'In a white label arrangement, an engineering partner does the technical work behind the scenes. The agency keeps the client relationship, presents the work as part of its own delivery, and stays responsible for the result the client sees. The partner does not market itself to the agency\'s client and does not contact them unless the agency asks.',
+        'It is different from reselling a finished product with a new logo. White label engineering is custom work: features, integrations, backends, mobile apps or automation built to fit a specific project.',
+      ] },
+      { heading: 'Why agencies use it', list: [
+        'Extra capacity when the in house team is full.',
+        'Skills the agency does not employ full time, such as backend engineering, mobile development or AI features.',
+        'A way to say yes to client work without hiring ahead of demand.',
+        'A monthly arrangement that can grow or shrink with the pipeline.',
+      ] },
+      { heading: 'What to agree before work starts', paragraphs: ['Most problems in white label work come from unclear expectations rather than poor engineering. Settle these points in writing first.'], list: [
+        'Scope: what is being built and what is not.',
+        'Access: which repository, tools and communication channels the partner will use.',
+        'Confidentiality: whether an NDA is needed and how the partner may refer to the work.',
+        'Ownership: who owns the code and documentation on delivery.',
+        'Communication: who the partner talks to, how often, and what counts as an update.',
+        'Hours and pricing: how many hours are included and what happens if more are needed.',
+      ] },
+      { heading: 'When it is not the right fit', paragraphs: ['White label work suits well defined tasks inside an existing workflow. It is a weaker fit when an agency needs product strategy, a design created from scratch, or a partner to manage the end client directly. In those cases a different kind of agreement works better.'] },
+      { heading: 'How a small first project helps', paragraphs: ['A short paid pilot is a practical way to test a new partner on a real task before committing to a monthly arrangement. It shows how the partner communicates, how clean the code is and whether work arrives when promised.', 'Harborline Systems offers a two week paid pilot of up to 30 hours for agencies. The terms, plans and working agreement are on the <a href="/agencies">agency partnership page</a>.'] },
+    ],
+    faqs: [
+      ['Is white label development the same as outsourcing?', 'White label development is a form of outsourcing where the partner stays out of sight of the end client. General outsourcing may involve the client dealing with the vendor directly.'],
+      ['Who owns the code in a white label project?', 'That should be written into your agreement. Many agencies expect to own the delivered code and documentation, but the terms depend on the contract you agree with your partner.'],
+      ['Can a white label partner work inside our repository?', 'Yes, and many agencies prefer it. Working in your repository and workflow keeps code history, reviews and deployment under your control.'],
+    ],
+  },
+  {
+    path: '/guides/choosing-a-software-development-partner',
+    title: 'How to choose a software development partner',
+    eyebrow: 'Guide for businesses',
+    h1: 'How to choose a <em>software development partner.</em>',
+    lede: 'Choosing who builds your software is one of the most important decisions a business makes. This checklist focuses on questions you can answer before you sign anything.',
+    published: '2026-11-01',
+    sections: [
+      { heading: 'Start with the problem, not the technology', paragraphs: ['Write down what is slowing the business down, who is affected and what a good result would look like. A partner can only quote accurately when the problem is clear. It also makes proposals easier to compare, because every partner is answering the same question.'] },
+      { heading: 'Look for evidence that fits your problem', paragraphs: ['Ask for examples of similar work and for the specific part the team played. A clear explanation of a past problem and how it was solved is more useful than a long list of logos or vague claims.'], list: [
+        'Have you built something close to this before, and what did you learn?',
+        'Which technologies would you use here, and why?',
+        'Who will actually do the work?',
+      ] },
+      { heading: 'Compare scopes, not just prices', paragraphs: ['Two quotes with different prices often describe different work. Check what each one includes: testing, documentation, deployment, handover and a period of fixes after delivery. A written scope with an agreed outcome, timeline and price protects both sides.'] },
+      { heading: 'Check how they communicate', paragraphs: ['You will spend more time talking to your partner than reading their code. Find out who your contact is, how quickly they reply, how often you will see progress and which working hours overlap with yours. Time zone differences are manageable when expectations are set early.'] },
+      { heading: 'Plan the handover and what happens after', paragraphs: ['Software needs care after launch. Ask who owns the source code, whether documentation is included and what support exists for bugs and small changes. A partner that plans the handover at the start is easier to keep, or to leave, when the project ends.'] },
+      { heading: 'Warning signs', list: [
+        'Pressure to sign before the scope is written down.',
+        'No clear answer on who owns the code.',
+        'Firm promises about results that depend on things outside their control.',
+        'Unwillingness to start with a small, paid first task.',
+      ] },
+      { heading: 'How Harborline Systems approaches it', paragraphs: ['Harborline Systems starts with a conversation about the real situation, agrees a written scope, builds, and hands over the agreed delivery with source code and documentation. You can read the full sequence on the <a href="/how-it-works">how it works page</a>, or start with a $200 automation audit described on the <a href="/businesses">business solutions page</a>.'] },
+    ],
+    faqs: [
+      ['Should I choose the cheapest quote?', 'Not automatically. Compare what each quote includes, and weigh the price against the clarity of the scope, the partner\'s communication and the plan for handover.'],
+      ['Is it better to hire a developer or work with a partner?', 'It depends on how steady the work is. A full time hire suits constant, long term needs. A partner suits project work, specialist skills or changing demand.'],
+      ['What should a software proposal include?', 'At minimum: the problem being solved, what will be delivered, what is excluded, the timeline, the price and what you receive at handover.'],
+    ],
+  },
+];
+
