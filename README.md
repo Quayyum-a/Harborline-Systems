@@ -1,6 +1,12 @@
 # Harborline Systems website
 
-A Vite and TypeScript marketing site for Harborline Systems, a Lagos based engineering studio. It presents confidential agency delivery capacity as the primary offer and direct software, AI and automation for businesses as the secondary offer. All five public pages are generated into static HTML before the Vite production build, so their public copy, metadata and structured data are present without running browser JavaScript.
+Official website for **Harborline Systems** (legal name: Harborline Systems Limited), a software and AI engineering company based in Lagos, Nigeria. Harborline helps digital agencies and businesses design, build, improve, automate and maintain digital systems: white label software engineering, custom software, web and mobile applications, backend engineering, AI features, business automation, APIs and integrations, and ongoing engineering support.
+
+- Website: https://harborlinesystems.ltd
+- Contact: hello@harborlinesystems.ltd
+- Serves: digital agencies, startups, small and medium sized businesses and growing companies
+
+This repository contains the website source. It is a Vite and TypeScript marketing site. Agency delivery is presented as the primary offer and direct software, AI and automation for businesses as the secondary offer. Every public page is generated into static HTML before the Vite production build, so its copy, metadata and structured data are present without running browser JavaScript.
 
 ## Routes
 
@@ -11,6 +17,9 @@ A Vite and TypeScript marketing site for Harborline Systems, a Lagos based engin
 | `/businesses` | Direct business problem solving and priced entry points |
 | `/services` | Capabilities, technologies and application contexts |
 | `/how-it-works` | A four step process explanation and FAQ |
+| `/about` | Company identity, who Harborline works with and how it works |
+| `/guides/white-label-software-development` | Guide: what white label software development means for agencies |
+| `/guides/choosing-a-software-development-partner` | Guide: a practical checklist for choosing a development partner |
 
 ## Local development
 
@@ -39,3 +48,12 @@ Do not introduce client names, customer logos, case studies, testimonials, reven
 
 Contact links use mailto templates addressed to `hello@harborlinesystems.ltd`. No form backend or database is required for this public brochure site.
 # Harborline-Systems
+
+## Search and discoverability
+
+- `scripts/prerender.mjs` writes each route's title, description, canonical URL, Open Graph tags and JSON-LD (Organization, WebSite, WebPage or AboutPage, BreadcrumbList, Service, Article and FAQPage where the page visibly contains that content). Company identity constants live at the top of `src/content.ts`.
+- To add a page, add it to `routes` and `metadata` in `src/content.ts`, render it in `src/pages.ts`, add it to `vite.config.ts` and `public/sitemap.xml`, then run the build.
+- `public/robots.txt` allows crawlers, explicitly allows `OAI-SearchBot` and declares the sitemap. `GPTBot` (model training) is deliberately not configured.
+- `public/llms.txt` is an experimental summary for AI tools. It is not a ranking signal.
+- Run `npm run build && npm run verify:seo` to check titles, descriptions, canonicals, headings, images, JSON-LD, internal links, sitemap and robots against the built site.
+- Search Console, Bing Webmaster Tools and DNS or redirect rules are managed outside this repository.

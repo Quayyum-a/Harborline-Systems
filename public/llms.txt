@@ -1,0 +1,35 @@
+# Harborline Systems
+
+> Harborline Systems (legal name: Harborline Systems Limited) is a software and AI engineering company based in Lagos, Nigeria. It helps digital agencies and businesses design, build, improve, automate and maintain digital systems.
+
+Official website: https://harborlinesystems.ltd
+Contact: hello@harborlinesystems.ltd
+
+Note: this file is an experimental convenience for AI tools. It is not a ranking signal. The pages below are the source of truth.
+
+## Who it serves
+
+- Digital agencies that need confidential white label engineering capacity
+- Startups, small and medium sized businesses and growing companies that need software, AI or automation
+
+## Services
+
+- White label software engineering for agencies
+- Custom software, web and mobile application development
+- Backend engineering, APIs and integrations
+- AI features and business process automation
+- Engineering support, maintenance and modernization
+
+## Pages
+
+- [Home](https://harborlinesystems.ltd/): what Harborline does and the two ways to work with it
+- [About](https://harborlinesystems.ltd/about): company identity, who it works with and how it works
+- [Agency partnerships](https://harborlinesystems.ltd/agencies): white label engineering plans and the working agreement
+- [Business solutions](https://harborlinesystems.ltd/businesses): software, AI and automation for businesses
+- [Services](https://harborlinesystems.ltd/services): capabilities and technologies
+- [How it works](https://harborlinesystems.ltd/how-it-works): the process from request to handover, and frequently asked questions
+
+## Guides
+
+- [White label software development explained](https://harborlinesystems.ltd/guides/white-label-software-development)
+- [How to choose a software development partner](https://harborlinesystems.ltd/guides/choosing-a-software-development-partner)

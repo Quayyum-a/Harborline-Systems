@@ -1,4 +1,4 @@
-import { EMAIL, agencyMail, agencyPlans, businessMail, businessPlans, faqs, industries, metadata, processStages, services, technologies } from './content';
+import { EMAIL, LEGAL_NAME, aboutProblems, agencyMail, agencyPlans, businessMail, businessPlans, faqs, guides, industries, metadata, processStages, services, technologies } from './content';
 
 const linkArrow = '<span class="link-arrow" aria-hidden="true">↗</span>';
 const button = (href: string, label: string, variant = 'solid') => `<a class="button button-${variant}" href="${href}">${label}${linkArrow}</a>`;
@@ -15,17 +15,17 @@ const header = (active: string) => {
         ? { href: businessMail, label: 'Discuss a project' }
         : { href: '/#contact', label: 'Start a conversation' };
 
-  return `<header class="site-header"><div class="container nav-wrap">${logo}<button class="menu-toggle" type="button" aria-label="Open navigation" aria-expanded="false" aria-controls="primary-navigation"><span></span><span></span></button><nav id="primary-navigation" class="primary-nav" aria-label="Primary navigation">${navLink(active, '/agencies', 'For agencies')}${navLink(active, '/businesses', 'For businesses')}${navLink(active, '/services', 'Services')}${navLink(active, '/how-it-works', 'How it works')}<a href="/#contact">Contact</a><a class="nav-cta" href="${action.href}">${action.label} ${linkArrow}</a></nav></div></header>`;
+  return `<header class="site-header"><div class="container nav-wrap">${logo}<button class="menu-toggle" type="button" aria-label="Open navigation" aria-expanded="false" aria-controls="primary-navigation"><span></span><span></span></button><nav id="primary-navigation" class="primary-nav" aria-label="Primary navigation">${navLink(active, '/agencies', 'For agencies')}${navLink(active, '/businesses', 'For businesses')}${navLink(active, '/services', 'Services')}${navLink(active, '/how-it-works', 'How it works')}<a href="/about">About</a><a href="/#contact">Contact</a><a class="nav-cta" href="${action.href}">${action.label} ${linkArrow}</a></nav></div></header>`;
 };
 
-const footer = () => `<footer class="site-footer"><div class="container footer-top"><div>${logo}<p>Engineering for the work ahead.</p></div><div class="footer-links"><a href="/agencies">Agency partnerships</a><a href="/businesses">Business solutions</a><a href="/services">Capabilities</a><a href="/how-it-works">How it works</a></div><div class="footer-contact"><span>Based in Lagos, Nigeria</span><a href="mailto:${EMAIL}">${EMAIL}</a><span>UTC+1</span></div></div><div class="container footer-bottom"><span>© ${new Date().getFullYear()} Harborline Systems</span><span>Seven years and counting</span></div></footer>`;
+const footer = () => `<footer class="site-footer"><div class="container footer-top"><div>${logo}<p>Engineering for the work ahead.</p></div><div class="footer-links"><a href="/agencies">Agency partnerships</a><a href="/businesses">Business solutions</a><a href="/services">Capabilities</a><a href="/how-it-works">How it works</a><a href="/about">About</a><a href="/guides/white-label-software-development">White label guide</a><a href="/guides/choosing-a-software-development-partner">Choosing a partner</a></div><div class="footer-contact"><span>Based in Lagos, Nigeria</span><a href="mailto:${EMAIL}">${EMAIL}</a><span>UTC+1</span></div></div><div class="container footer-bottom"><span>© ${new Date().getFullYear()} ${LEGAL_NAME}</span><span>Seven years and counting</span></div></footer>`;
 
 const wrap = (path: string, body: string) => `${header(path)}<main id="main-content">${body}</main>${footer()}`;
 const eyebrow = (label: string) => `<p class="eyebrow">${label}</p>`;
 const photoCredit = (text: string, href: string) => `<figcaption class="photo-caption"><span>${text}</span><a href="${href}" target="_blank" rel="noreferrer">Photo credit and source</a></figcaption>`;
 
 const home = () => wrap('/', `
-  <section class="home-hero"><div class="container home-hero-grid"><div class="home-copy"><p class="eyebrow eyebrow-rule">Lagos, Nigeria <span aria-hidden="true">·</span> Seven years and counting</p><h1>We turn complex technology problems into <em>working solutions.</em></h1><p class="hero-intro">Engineering delivery for agencies. Practical software, AI and automation for businesses.</p><div class="hero-actions">${button('/agencies', 'Explore agency partnership')}${button('/businesses', 'Solve a business problem', 'text')}</div><p class="hero-assurance"><span class="assurance-rule" aria-hidden="true"></span> Two clear ways to work together. One direct conversation to begin.</p></div><figure class="hero-image"><img src="/images/designer-at-work.webp" width="1800" height="1200" fetchpriority="high" alt="A person working at a laptop on a design interface. Illustrative stock photography.">${photoCredit('An illustrative working session', 'https://unsplash.com/photos/person-using-macbook-pro-kw6M7M3GE9M')}</figure></div></section>
+  <section class="home-hero"><div class="container home-hero-grid"><div class="home-copy"><p class="eyebrow eyebrow-rule">Lagos, Nigeria <span aria-hidden="true">·</span> Seven years and counting</p><h1>We turn complex technology problems into <em>working solutions.</em></h1><p class="hero-intro">Harborline Systems is a software and AI engineering company. Engineering delivery for agencies. Practical software, AI and automation for businesses.</p><div class="hero-actions">${button('/agencies', 'Explore agency partnership')}${button('/businesses', 'Solve a business problem', 'text')}</div><p class="hero-assurance"><span class="assurance-rule" aria-hidden="true"></span> Two clear ways to work together. One direct conversation to begin.</p></div><figure class="hero-image"><img src="/images/designer-at-work.webp" width="1800" height="1200" fetchpriority="high" alt="A person working at a laptop on a design interface. Illustrative stock photography.">${photoCredit('An illustrative working session', 'https://unsplash.com/photos/person-using-macbook-pro-kw6M7M3GE9M')}</figure></div></section>
   <section class="proof-band"><div class="container proof-band-inner"><p><strong>7 years and counting</strong><span>Building useful digital systems</span></p><p><strong>Agency delivery first</strong><span>Confidential by design</span></p><p><strong>Direct business work</strong><span>Scope before solution</span></p></div></section>
   <section class="section section-paths"><div class="container"><div class="section-intro"><div>${eyebrow('Choose the right starting point')}<h2>One studio.<br><em>Two ways to work.</em></h2></div><p>Choose the path that fits your role. Agency delivery is our primary offer; direct business software and automation is also available.</p></div><div class="path-list"><article class="path-entry path-entry-primary"><div class="path-label"><span>01</span><span>Primary offer</span></div><div class="path-detail"><h3>For agencies</h3><p>Deliver more of the work you have already sold. Harborline works quietly behind your brand, inside your workflow and repository.</p><a class="text-link" href="/agencies">Explore the agency model ${linkArrow}</a></div><p class="path-rate">From <strong>$750</strong><br>for a paid pilot</p></article><article class="path-entry"><div class="path-label"><span>02</span><span>Direct offer</span></div><div class="path-detail"><h3>For businesses</h3><p>Start with the operational problem. We shape a useful software, AI or automation solution around it.</p><a class="text-link" href="/businesses">Explore business solutions ${linkArrow}</a></div><p class="path-rate">From <strong>$200</strong><br>for an automation audit</p></article></div></div></section>
   <section class="section section-brief"><div class="container brief-grid"><p class="brief-marker">A useful first conversation</p><div><h2>Bring the problem.<br><em>We will map the answer.</em></h2><p>Tell us where your client delivery or business operations get stuck. You do not need to arrive with a technical brief.</p><div class="hero-actions">${button(agencyMail, 'Talk about agency delivery')}${button(businessMail, 'Talk about a business problem', 'text')}</div></div></div></section>
@@ -61,10 +61,51 @@ const process = () => wrap('/how-it-works', `
   <section class="section process-contact"><div class="container process-contact-inner"><p class="eyebrow">You can begin in plain English</p><h2>Tell us where<br>the work gets stuck.</h2><div class="hero-actions">${button(agencyMail, 'Agency delivery enquiry')}${button(businessMail, 'Business project enquiry', 'light')}</div></div></section>
 `);
 
+
+const about = () => wrap('/about', `
+  <section class="page-hero about-hero"><div class="container"><nav class="breadcrumb" aria-label="Breadcrumb"><a href="/">Home</a><span aria-hidden="true">/</span><span>About</span></nav>${eyebrow('About Harborline Systems')}<h1>A software and AI engineering company, <em>built around the problem.</em></h1><p class="page-lede">${LEGAL_NAME}, known publicly as Harborline Systems, helps digital agencies and businesses design, build, improve, automate and maintain digital systems. The company is based in Lagos, Nigeria.</p></div></section>
+  <section class="section article"><div class="container"><div class="article-body">
+    <h2>Who Harborline works with</h2>
+    <p>Harborline Systems works with digital agencies, startups, small and medium sized businesses, growing companies and entrepreneurs. Agency engineering delivery is the primary offer. Direct software, AI and automation work for businesses is the second.</p>
+    <h2>What Harborline does</h2>
+    <p>The work covers white label software engineering, custom software, web and mobile applications, backend engineering, AI features, business automation, APIs and integrations, and ongoing engineering support. The <a href="/services">services page</a> describes each area, and the technologies Harborline works with.</p>
+    <h2>How the work is done</h2>
+    <ul>
+      <li>Every engagement starts with the real situation, described in plain English.</li>
+      <li>Harborline frames an approach, timeline and price in writing before work begins.</li>
+      <li>Work follows the agreed workflow, with practical updates as it moves forward.</li>
+      <li>The agreed delivery is handed over with source code and useful documentation.</li>
+      <li>For agencies, Harborline works behind the agency brand and does not contact end clients unless the agency authorizes it. An NDA is available on request.</li>
+    </ul>
+    <p>The full sequence is on the <a href="/how-it-works">how it works page</a>.</p>
+    <h2>Problems Harborline aims to solve</h2>
+    <ul>${aboutProblems.map(([problem, answer]) => `<li><strong>${problem}</strong> ${answer}</li>`).join('')}</ul>
+    <h2>Contact</h2>
+    <p>Write to <a href="mailto:${EMAIL}">${EMAIL}</a>. Harborline is based in Lagos, Nigeria, on UTC+1. You can also start with an <a href="/agencies">agency partnership</a> or a <a href="/businesses">business problem</a>.</p>
+  </div></div></section>
+  <section class="section close-band"><div class="container close-inner"><p class="eyebrow">You can begin in plain English</p><h2>Tell us where<br>the work gets stuck.</h2>${button(agencyMail, 'Agency delivery enquiry')}${button(businessMail, 'Business project enquiry', 'text')}</div></section>
+`);
+
+const guidePage = (path: string) => {
+  const guide = guides.find((entry) => entry.path === path)!;
+  const sections = guide.sections.map((section) => `<h2>${section.heading}</h2>${(section.paragraphs ?? []).map((text) => `<p>${text}</p>`).join('')}${section.list ? `<ul>${section.list.map((item) => `<li>${item}</li>`).join('')}</ul>` : ''}`).join('');
+  const otherGuides = guides.filter((entry) => entry.path !== path).map((entry) => `<a class="text-link" href="${entry.path}">${entry.title} ${linkArrow}</a>`).join('');
+  return wrap(path, `
+  <section class="page-hero guide-hero"><div class="container"><nav class="breadcrumb" aria-label="Breadcrumb"><a href="/">Home</a><span aria-hidden="true">/</span><span>Guides</span></nav>${eyebrow(guide.eyebrow)}<h1>${guide.h1}</h1><p class="page-lede">${guide.lede}</p></div></section>
+  <section class="section article"><div class="container"><div class="article-body">${sections}
+    <h2>Common questions</h2>
+    <div class="faq-list">${guide.faqs.map(([question, answer]) => `<details class="faq-item"><summary>${question}<span aria-hidden="true">+</span></summary><p>${answer}</p></details>`).join('')}</div>
+    <p class="article-meta">Published ${guide.published} by ${LEGAL_NAME}. Related: ${otherGuides}</p>
+  </div></div></section>
+  <section class="section close-band"><div class="container close-inner"><p class="eyebrow">A useful first conversation</p><h2>Bring the problem.<br>We will map the answer.</h2>${button(agencyMail, 'Talk about agency delivery')}${button(businessMail, 'Talk about a business problem', 'text')}</div></section>
+`);
+};
+
 const notFound = () => `${header('')}<main id="main-content" class="not-found"><div class="container">${eyebrow('Page not found')}<h1>That page is<br><em>out of place.</em></h1><p>Return to the Harborline Systems home page to choose where to begin.</p>${button('/', 'Return home')}</div></main>${footer()}`;
 
 export const renderPage = (path: string) => {
-  const routes: Record<string, () => string> = { '/': home, '/agencies': agency, '/businesses': businesses, '/services': servicePage, '/how-it-works': process };
+  const routes: Record<string, () => string> = { '/': home, '/agencies': agency, '/businesses': businesses, '/services': servicePage, '/how-it-works': process, '/about': about };
+  if (guides.some((guide) => guide.path === path)) return guidePage(path);
   return routes[path] ? routes[path]() : notFound();
 };
 

@@ -7,6 +7,9 @@ const prerenderedRoutes: Record<string, string> = {
   '/businesses': '/businesses/index.html',
   '/services': '/services/index.html',
   '/how-it-works': '/how-it-works/index.html',
+  '/about': '/about/index.html',
+  '/guides/white-label-software-development': '/guides/white-label-software-development/index.html',
+  '/guides/choosing-a-software-development-partner': '/guides/choosing-a-software-development-partner/index.html',
 };
 
 const exactPageRoutes: Plugin = {
@@ -45,6 +48,9 @@ export default defineConfig({
         businesses: resolve(root, 'businesses/index.html'),
         services: resolve(root, 'services/index.html'),
         howItWorks: resolve(root, 'how-it-works/index.html'),
+        about: resolve(root, 'about/index.html'),
+        guideWhiteLabel: resolve(root, 'guides/white-label-software-development/index.html'),
+        guidePartner: resolve(root, 'guides/choosing-a-software-development-partner/index.html'),
       },
     },
   },

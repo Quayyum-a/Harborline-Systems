@@ -1,9 +1,36 @@
 {
   "routes": [
-    { "path": "/", "title": "Harborline Systems | Working software, built for the work" },
-    { "path": "/agencies", "title": "Agency engineering capacity | Harborline Systems" },
-    { "path": "/businesses", "title": "Business software and automation | Harborline Systems" },
-    { "path": "/services", "title": "Software and AI engineering services | Harborline Systems" },
-    { "path": "/how-it-works", "title": "How projects work with Harborline | Harborline Systems" }
+    {
+      "path": "/",
+      "title": "Harborline Systems | Software and AI engineering for agencies and businesses"
+    },
+    {
+      "path": "/agencies",
+      "title": "Agency engineering capacity | Harborline Systems"
+    },
+    {
+      "path": "/businesses",
+      "title": "Business software and automation | Harborline Systems"
+    },
+    {
+      "path": "/services",
+      "title": "Software and AI engineering services | Harborline Systems"
+    },
+    {
+      "path": "/how-it-works",
+      "title": "How projects work with Harborline | Harborline Systems"
+    },
+    {
+      "path": "/about",
+      "title": "About Harborline Systems | Software and AI engineering company"
+    },
+    {
+      "path": "/guides/white-label-software-development",
+      "title": "White label software development explained | Harborline Systems"
+    },
+    {
+      "path": "/guides/choosing-a-software-development-partner",
+      "title": "How to choose a software development partner | Harborline Systems"
+    }
   ]
 }

@@ -1,3 +1,10 @@
+# Harborline Systems crawler policy
 User-agent: *
 Allow: /
+
+# OpenAI's search crawler is allowed so Harborline can appear in ChatGPT search answers.
+# This is separate from GPTBot (model training), which is intentionally not configured here.
+User-agent: OAI-SearchBot
+Allow: /
+
 Sitemap: https://harborlinesystems.ltd/sitemap.xml
