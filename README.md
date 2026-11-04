@@ -18,19 +18,23 @@ This repository contains the website source. It is a Vite and TypeScript marketi
 | `/services` | Capabilities, technologies and application contexts |
 | `/how-it-works` | A four step process explanation and FAQ |
 | `/about` | Company identity, who Harborline works with and how it works |
+| `/work` | An index of independent product engineering case studies |
+| `/work/papyr` | Papyr product case study, public sign-up screenshot, implementation and blockers |
+| `/work/splitcore` | Splitcore product case study, hosted sign-in screenshot and settlement architecture |
+| `/checkout` | No-card status page for priced offers; payment is not available |
 | `/guides/white-label-software-development` | Guide: what white label software development means for agencies |
 | `/guides/choosing-a-software-development-partner` | Guide: a practical checklist for choosing a development partner |
 
 ## Local development
 
-Use Node.js 22 or newer and npm 10.9.9 (pinned in `package.json`). Install the lockfile dependencies with `npm ci`, then run `npm run dev`. The site serves on port 3000. Type checks are available with `npm run typecheck`. Run `npm run build` to regenerate the five route documents and create the static site in `dist/`. `npm run preview` serves the build locally on port 3000.
+Use Node.js 22 or newer and npm 10.9.9 (pinned in `package.json`). Install the lockfile dependencies with `npm ci`, then run `npm run dev`. The site serves on port 3000. Type checks are available with `npm run typecheck`. Run `npm run build` to regenerate the configured route documents and create the static site in `dist/`. `npm run preview` serves the build locally on port 3000.
 
 The prebuild in `scripts/prerender.mjs` transpiles the shared TypeScript templates with the checked in TypeScript dependency and writes each route's actual copy and metadata into its entry HTML. Vite bundles those documents as a multi page static site. The JSON route declaration is `public/manus-routes.json`; the sitemap and robots files are in `public/`.
 
 ## Structure
 
 - `src/content.ts`: factual pricing, services, processes, FAQs, contact templates and SEO content.
-- `src/pages.ts`: the five page layouts, route navigation and footer.
+- `src/pages.ts`: shared page templates, work index and source-linked case-study layouts.
 - `src/main.ts`: optional browser interactions, mobile navigation and the process stage switcher.
 - `src/styles.css`: the Harborline editorial design tokens and responsive layouts.
 - `scripts/prerender.mjs`: crawler readable static route generation.
@@ -44,7 +48,7 @@ The prebuild in `scripts/prerender.mjs` transpiles the shared TypeScript templat
 
 ## Claims and imagery
 
-Do not introduce client names, customer logos, case studies, testimonials, revenue, awards or country coverage without evidence and permission. The two locally bundled Unsplash photographs are contextual stock images only, not Harborline staff or client work. See [IMAGE-CREDITS.md](IMAGE-CREDITS.md) for each source and license. The unmatched supplied warehouse image is preserved outside `public/` and is not built or published with the site.
+The Papyr and Splitcore pages are source-backed product studies, not client deliverables, endorsements or evidence of adoption. Each states what could and could not be verified. Do not introduce client names, customer logos, testimonials, revenue, awards or country coverage without evidence and permission. The two locally bundled Unsplash photographs are contextual stock images only, not Harborline staff or client work. See [IMAGE-CREDITS.md](IMAGE-CREDITS.md) for each source and license. The unmatched supplied warehouse image is preserved outside `public/` and is not built or published with the site.
 
 Contact links use mailto templates addressed to `hello@harborlinesystems.ltd`. No form backend or database is required for this public brochure site.
 # Harborline-Systems

@@ -52,8 +52,8 @@ const crumbs = (route, title) => {
   if (route === '/') return null;
   const items = [{ name: 'Home', url: `${site}/` }];
   if (route.startsWith('/guides/')) items.push({ name: 'Guides', url: `${site}${route}` });
-  if (route.startsWith('/work/')) items.push({ name: 'Work', url: `${site}/work` });
-  items.push({ name: route.startsWith('/guides/') ? title.split(' | ')[0] : title.split(' | ')[0], url: `${site}${route}` });
+  if (route.startsWith('/work/')) items.push({ name: 'Engineering work', url: `${site}/work` });
+  items.push({ name: title.split(' | ')[0], url: `${site}${route}` });
   return { '@type': 'BreadcrumbList', '@id': `${site}${route}#breadcrumb`, itemListElement: items.map((item, i) => ({ '@type': 'ListItem', position: i + 1, name: item.name, item: item.url })) };
 };
 
@@ -76,6 +76,7 @@ for (const route of routes) {
     graph.push(faqNode(canonical, guide.faqs));
   }
   const structured = { '@context': 'https://schema.org', '@graph': graph };
+  const robotsDirective = route === '/checkout' ? 'noindex, follow' : 'index, follow, max-image-preview:large';
   const html = `<!doctype html>
 <html lang="en">
 <head>
@@ -84,7 +85,7 @@ for (const route of routes) {
   <meta name="theme-color" content="#f4f1e8">
   <meta name="google-site-verification" content="WYcCIBXPndtFN1SFAGP8aJ0JVTA7Riy0z-jdJyfgmbE">
 ${route === '/' ? '  <meta name="msvalidate.01" content="8BC99A1F41780B26A06BFAC8D204CE5A" />\n' : ''}  <meta name="description" content="${esc(description)}">
-  <meta name="robots" content="index, follow, max-image-preview:large">
+  <meta name="robots" content="${robotsDirective}">
   <meta name="keywords" content="software engineering, white label engineering, AI automation, business software, Lagos Nigeria">
   <link rel="canonical" href="${esc(canonical)}">
   <link rel="icon" href="/favicon.ico" sizes="48x48">
@@ -92,7 +93,7 @@ ${route === '/' ? '  <meta name="msvalidate.01" content="8BC99A1F41780B26A06BFAC
   <link rel="apple-touch-icon" href="/apple-touch-icon.png">
   <meta name="application-name" content="${BRAND}">
   <link rel="stylesheet" href="/src/styles.css">
-  <meta property="og:type" content="${guide ? 'article' : 'website'}">
+  <meta property="og:type" content="${guide || route.startsWith('/work/') ? 'article' : 'website'}">
   <meta property="og:site_name" content="${BRAND}">
   <meta property="og:locale" content="en_NG">
   <meta property="og:title" content="${esc(title)}">

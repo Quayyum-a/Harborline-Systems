@@ -9,8 +9,9 @@ const prerenderedRoutes: Record<string, string> = {
   '/how-it-works': '/how-it-works/index.html',
   '/about': '/about/index.html',
   '/work': '/work/index.html',
-  '/work/splitcore': '/work/splitcore/index.html',
   '/work/papyr': '/work/papyr/index.html',
+  '/work/splitcore': '/work/splitcore/index.html',
+  '/checkout': '/checkout/index.html',
   '/guides/white-label-software-development': '/guides/white-label-software-development/index.html',
   '/guides/choosing-a-software-development-partner': '/guides/choosing-a-software-development-partner/index.html',
 };
@@ -41,8 +42,6 @@ const exactPageRoutes: Plugin = {
 
 export default defineConfig({
   plugins: [exactPageRoutes],
-  server: { allowedHosts: ['3000-ijaamjqfzsip8373xctrh-936b7224.us5.manus.computer'] },
-  preview: { allowedHosts: ['3000-ijaamjqfzsip8373xctrh-936b7224.us5.manus.computer'] },
   build: {
     rollupOptions: {
       input: {
@@ -53,8 +52,9 @@ export default defineConfig({
         howItWorks: resolve(root, 'how-it-works/index.html'),
         about: resolve(root, 'about/index.html'),
         work: resolve(root, 'work/index.html'),
-        workSplitcore: resolve(root, 'work/splitcore/index.html'),
         workPapyr: resolve(root, 'work/papyr/index.html'),
+        workSplitcore: resolve(root, 'work/splitcore/index.html'),
+        checkout: resolve(root, 'checkout/index.html'),
         guideWhiteLabel: resolve(root, 'guides/white-label-software-development/index.html'),
         guidePartner: resolve(root, 'guides/choosing-a-software-development-partner/index.html'),
       },

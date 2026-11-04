@@ -1,48 +1,16 @@
 {
   "routes": [
-    {
-      "path": "/",
-      "title": "Harborline Systems | Software and AI engineering for agencies and businesses"
-    },
-    {
-      "path": "/agencies",
-      "title": "Agency engineering capacity | Harborline Systems"
-    },
-    {
-      "path": "/businesses",
-      "title": "Business software and automation | Harborline Systems"
-    },
-    {
-      "path": "/services",
-      "title": "Software and AI engineering services | Harborline Systems"
-    },
-    {
-      "path": "/how-it-works",
-      "title": "How projects work with Harborline | Harborline Systems"
-    },
-    {
-      "path": "/about",
-      "title": "About Harborline Systems | Software and AI engineering company"
-    },
-    {
-      "path": "/guides/white-label-software-development",
-      "title": "White label software development explained | Harborline Systems"
-    },
-    {
-      "path": "/guides/choosing-a-software-development-partner",
-      "title": "How to choose a software development partner | Harborline Systems"
-    },
-    {
-      "path": "/work",
-      "title": "Engineering work | Harborline Systems"
-    },
-    {
-      "path": "/work/splitcore",
-      "title": "Splitcore case study: payments and ledger backend | Harborline Systems"
-    },
-    {
-      "path": "/work/papyr",
-      "title": "Papyr case study: handwritten digital ledger | Harborline Systems"
-    }
+    { "path": "/", "title": "Harborline Systems | Software and AI engineering for agencies and businesses" },
+    { "path": "/agencies", "title": "Agency engineering capacity | Harborline Systems" },
+    { "path": "/businesses", "title": "Business software and automation | Harborline Systems" },
+    { "path": "/services", "title": "Software and AI engineering services | Harborline Systems" },
+    { "path": "/how-it-works", "title": "How projects work with Harborline | Harborline Systems" },
+    { "path": "/about", "title": "About Harborline Systems | Software and AI engineering company" },
+    { "path": "/work", "title": "Engineering work | Harborline Systems" },
+    { "path": "/work/papyr", "title": "Papyr | Engineering case study | Harborline Systems" },
+    { "path": "/work/splitcore", "title": "Splitcore | Engineering case study | Harborline Systems" },
+    { "path": "/checkout", "title": "Payment coming soon | Harborline Systems" },
+    { "path": "/guides/white-label-software-development", "title": "White label software development explained | Harborline Systems" },
+    { "path": "/guides/choosing-a-software-development-partner", "title": "How to choose a software development partner | Harborline Systems" }
   ]
 }
