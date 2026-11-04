@@ -31,6 +31,18 @@
     {
       "path": "/guides/choosing-a-software-development-partner",
       "title": "How to choose a software development partner | Harborline Systems"
+    },
+    {
+      "path": "/work",
+      "title": "Engineering work | Harborline Systems"
+    },
+    {
+      "path": "/work/splitcore",
+      "title": "Splitcore case study: payments and ledger backend | Harborline Systems"
+    },
+    {
+      "path": "/work/papyr",
+      "title": "Papyr case study: handwritten digital ledger | Harborline Systems"
     }
   ]
 }

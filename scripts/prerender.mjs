@@ -52,6 +52,7 @@ const crumbs = (route, title) => {
   if (route === '/') return null;
   const items = [{ name: 'Home', url: `${site}/` }];
   if (route.startsWith('/guides/')) items.push({ name: 'Guides', url: `${site}${route}` });
+  if (route.startsWith('/work/')) items.push({ name: 'Work', url: `${site}/work` });
   items.push({ name: route.startsWith('/guides/') ? title.split(' | ')[0] : title.split(' | ')[0], url: `${site}${route}` });
   return { '@type': 'BreadcrumbList', '@id': `${site}${route}#breadcrumb`, itemListElement: items.map((item, i) => ({ '@type': 'ListItem', position: i + 1, name: item.name, item: item.url })) };
 };

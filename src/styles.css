@@ -404,3 +404,22 @@ a:hover > .link-arrow { transform: translate(2px, -2px); }
 .article-body .faq-list { margin-top: 12px; }
 .article-meta { margin-top: 48px; color: var(--muted); font-size: 13px; }
 .article-meta .text-link { margin-left: 6px; }
+
+/* Engineering case studies */
+.case-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 32px; }
+.case-card { display: flex; flex-direction: column; gap: 4px; padding: 36px; border: 1px solid var(--line); background: var(--paper-bright); }
+.case-card h2 { margin: 0 0 6px; font-size: 40px; line-height: 1.05; }
+.case-card p { margin: 0 0 14px; color: var(--slate); }
+.case-card .eyebrow { margin-bottom: 14px; }
+.case-status { color: var(--clay) !important; font-size: 13px; font-weight: 700; letter-spacing: .04em; }
+.case-stack { display: flex; flex-wrap: wrap; gap: 8px; margin: 6px 0 22px !important; padding: 0 !important; list-style: none; }
+.case-stack li { margin: 0 !important; padding: 5px 11px !important; border: 1px solid var(--line); background: var(--sea-pale); color: var(--sea-deep); font-size: 12px; font-weight: 600; }
+.case-facts { display: grid; grid-template-columns: repeat(auto-fit, minmax(190px, 1fr)); gap: 0; max-width: 860px; margin: 44px 0 0; border-top: 1px solid var(--line-dark); }
+.case-facts div { padding: 16px 20px 0 0; }
+.case-facts dt { color: var(--muted); font-size: 11px; font-weight: 700; letter-spacing: .14em; text-transform: uppercase; }
+.case-facts dd { margin: 4px 0 0; color: var(--ink); font-size: 15px; font-weight: 600; }
+.case-pairs { margin: 0 0 24px; }
+.case-pairs div { padding: 20px 0; border-top: 1px solid var(--line); }
+.case-pairs dt { margin-bottom: 6px; color: var(--ink); font-weight: 700; }
+.case-pairs dd { margin: 0; color: var(--ink-soft); }
+@media (max-width: 720px) { .case-card { padding: 26px; } }
