@@ -1,11 +1,12 @@
 import { getMetadata, renderPage } from './pages';
-import { processStages } from './content';
+import { processStages, routes } from './content';
 
 const path = window.location.pathname.replace(/\/+$/, '') || '/';
-const validRoutes = ['/', '/agencies', '/businesses', '/services', '/how-it-works'];
+const validRoutes: readonly string[] = routes;
 const pagePath = validRoutes.includes(path) ? path : '';
+const offerSlug = new URLSearchParams(window.location.search).get('offer') ?? undefined;
 const app = document.querySelector<HTMLDivElement>('#app');
-if (app) app.innerHTML = renderPage(pagePath);
+if (app) app.innerHTML = renderPage(pagePath, offerSlug);
 const meta = getMetadata(pagePath);
 document.title = meta.title;
 document.querySelector('meta[name="description"]')?.setAttribute('content', meta.description);

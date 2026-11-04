@@ -28,6 +28,9 @@ Note: this file is an experimental convenience for AI tools. It is not a ranking
 - [Business solutions](https://harborlinesystems.ltd/businesses): software, AI and automation for businesses
 - [Services](https://harborlinesystems.ltd/services): capabilities and technologies
 - [How it works](https://harborlinesystems.ltd/how-it-works): the process from request to handover, and frequently asked questions
+- [Engineering work](https://harborlinesystems.ltd/work): two source-backed product case studies; not client testimonials or adoption claims
+- [Papyr case study](https://harborlinesystems.ltd/work/papyr): ledger-workspace prototype, implementation decisions and documented blockers
+- [Splitcore case study](https://harborlinesystems.ltd/work/splitcore): QR-tipping product work in progress, ledger and settlement code, and unverified deployment limits
 
 ## Guides
 

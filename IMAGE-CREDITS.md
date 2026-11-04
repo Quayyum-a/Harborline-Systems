@@ -1,13 +1,15 @@
 # Image credits and rights notes
 
-The production site uses two local, compressed WebP photographs. Both are illustrative stock imagery, not images of Harborline staff, customers or client projects. Their source pages are linked from captions in the site. The Unsplash License permits downloading, use and modification, including commercial use; it does not require attribution. Credits are provided voluntarily. No Unsplash+ only image is used.
+The site uses two local, compressed WebP photographs. Both are illustrative stock imagery, not images of Harborline staff, customers or client projects. Their source pages are linked from captions in the site. The Unsplash License permits downloading, use and modification, including commercial use; it does not require attribution. Credits are provided voluntarily. No Unsplash+ only image is used. Two additional local PNGs are direct captures of publicly accessible Papyr and Splitcore entry screens; they contain no account, customer or transaction data and are not client-work evidence.
 
 | Local asset | Use and source | Creator and license |
 | --- | --- | --- |
 | `public/images/designer-at-work.webp` | Home hero. [Person using MacBook Pro](https://unsplash.com/photos/person-using-macbook-pro-kw6M7M3GE9M) | Van Tay Media. The individual photo page states “Free to use under the Unsplash License.” Attribution is not required by the license. |
 | `public/images/warehouse-conversation.webp` | Business page. [Two women walking through a warehouse aisle](https://unsplash.com/photos/women-walking-through-warehouse-aisle-ZlOlRnWk8zU) | Centre for Ageing Better. The individual photo page states a dual license of [Public Domain](https://help.unsplash.com/en/articles/5754412-dual-usage) and [Unsplash License](https://unsplash.com/license). |
+| `public/images/projects/papyr-signup.png` | Papyr case study. Screenshot of the public sign-up screen and its blank ledger preview. [Source page](https://papyr-app-mu.vercel.app/auth/signup) | Original browser capture of the publicly accessible product UI; no account was created and no user or ledger data was accessed. |
+| `public/images/projects/splitcore-sign-in.png` | Splitcore case study. Screenshot of the public venue sign-in screen. [Source page](https://splitcore-app.netlify.app/login) | Original browser capture of the publicly accessible product UI; no credentials were entered and no guest session or transaction was created. |
 
-The two production image files are distributed as `image/webp` assets at 1800 pixels wide, preserving their original photographic composition and aspect ratio. The displayed captions disclose each creator/source and link to the matching Unsplash photo page. Accessible alt text describes the people and scene without implying a Harborline client engagement.
+The two stock image files are distributed as `image/webp` assets at 1800 pixels wide, preserving their original photographic composition and aspect ratio. The displayed photo captions disclose each creator/source and link to the matching Unsplash photo page. The project screenshots are distributed as PNG browser captures and are labelled as entry screens; they are not representations of authenticated product workflows or client deployments.
 
 ## Unverified supplied image
 
