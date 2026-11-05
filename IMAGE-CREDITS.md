@@ -1,6 +1,6 @@
 # Image credits and rights notes
 
-The site uses two local, compressed WebP photographs. Both are illustrative stock imagery, not images of Harborline staff, customers or client projects. Their source pages are linked from captions in the site. The Unsplash License permits downloading, use and modification, including commercial use; it does not require attribution. Credits are provided voluntarily. No Unsplash+ only image is used. Two additional local PNGs are direct captures of publicly accessible Papyr and Splitcore entry screens; they contain no account, customer or transaction data and are not client-work evidence.
+The site uses two local, compressed WebP photographs. Both are illustrative stock imagery, not images of Harborline staff, customers or client projects. Their sources, creators and applicable licenses are recorded below and in this document, not shown as captions or source links in the public hero interface. The Unsplash License permits downloading, use and modification, including commercial use; it does not require attribution. Credits are retained here voluntarily. No Unsplash+ only image is used. Two additional local PNGs are direct captures of publicly accessible Papyr and Splitcore entry screens; they contain no account, customer or transaction data and are not client-work evidence.
 
 | Local asset | Use and source | Creator and license |
 | --- | --- | --- |
@@ -9,7 +9,7 @@ The site uses two local, compressed WebP photographs. Both are illustrative stoc
 | `public/images/projects/papyr-signup.png` | Papyr case study. Screenshot of the public sign-up screen and its blank ledger preview. [Source page](https://papyr-app-mu.vercel.app/auth/signup) | Original browser capture of the publicly accessible product UI; no account was created and no user or ledger data was accessed. |
 | `public/images/projects/splitcore-sign-in.png` | Splitcore case study. Screenshot of the public venue sign-in screen. [Source page](https://splitcore-app.netlify.app/login) | Original browser capture of the publicly accessible product UI; no credentials were entered and no guest session or transaction was created. |
 
-The two stock image files are distributed as `image/webp` assets at 1800 pixels wide, preserving their original photographic composition and aspect ratio. The displayed photo captions disclose each creator/source and link to the matching Unsplash photo page. The project screenshots are distributed as PNG browser captures and are labelled as entry screens; they are not representations of authenticated product workflows or client deployments.
+The two stock image files are distributed as `image/webp` assets at 1800 pixels wide, preserving their original photographic composition and aspect ratio. Their source, creator and license details are maintained here instead of as visible hero captions or source links in the website UI. The project screenshots are distributed as PNG browser captures and are labelled as entry screens; they are not representations of authenticated product workflows or client deployments.
 
 ## Unverified supplied image
 
